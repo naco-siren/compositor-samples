@@ -37,7 +37,7 @@
       "maskEnabled" : true,
       "maskFile" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8.mask.png",
       "maskLinked" : true,
-      "name" : "02 · Portrait | clear face + natural neck",
+      "name" : "02 · Portrait | leaf-shaped transition",
       "opacity" : 1,
       "transform" : {
         "flipX" : false,
@@ -153,11 +153,11 @@
         "saturation" : 0
       },
       "blendMode" : "Normal",
-      "id" : "D2E3FB61-361D-4B48-AE95-BE3AA5D0A2BF",
+      "id" : "119956B0-0447-4701-B0E0-6C67B75A8F5F",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "D2E3FB61-361D-4B48-AE95-BE3AA5D0A2BF.mask.png",
+      "maskFile" : "119956B0-0447-4701-B0E0-6C67B75A8F5F.mask.png",
       "maskLinked" : true,
       "name" : "02b · Portrait light | face recovery",
       "opacity" : 1,
@@ -178,53 +178,53 @@
     },
     {
       "blendMode" : "Normal",
-      "id" : "BC7A49AE-9A49-458D-930F-F0143AA19B54",
-      "imageFile" : "BC7A49AE-9A49-458D-930F-F0143AA19B54.png",
+      "id" : "73F1DE1B-0CC5-49D5-904E-5ED1AD2A7E02",
+      "imageFile" : "73F1DE1B-0CC5-49D5-904E-5ED1AD2A7E02.png",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "BC7A49AE-9A49-458D-930F-F0143AA19B54.mask.png",
+      "maskFile" : "73F1DE1B-0CC5-49D5-904E-5ED1AD2A7E02.mask.png",
       "maskLinked" : true,
-      "name" : "03 · ONE TREE | enlarged continuous canopy",
+      "name" : "03 · ONE TREE | continuous crown + branches",
       "opacity" : 1,
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          -450,
-          120
+          200,
+          50
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          4750,
-          3143.8339134758826
+          3800,
+          2515.067130780706
         ]
       }
     },
     {
       "blendMode" : "Multiply",
-      "id" : "338851F0-BE19-4BC2-9142-317B4E9DD1CF",
-      "imageFile" : "338851F0-BE19-4BC2-9142-317B4E9DD1CF.png",
+      "id" : "1E55D692-AC1C-40BE-826C-7D5209E54DC3",
+      "imageFile" : "1E55D692-AC1C-40BE-826C-7D5209E54DC3.png",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "338851F0-BE19-4BC2-9142-317B4E9DD1CF.mask.png",
+      "maskFile" : "1E55D692-AC1C-40BE-826C-7D5209E54DC3.mask.png",
       "maskLinked" : true,
-      "name" : "04 · SAME TREE | posterior hair transition",
+      "name" : "04 · SAME TREE | skin exposure \/ exact registration",
       "opacity" : 1,
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          -450,
-          120
+          200,
+          50
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          4750,
-          3143.8339134758826
+          3800,
+          2515.067130780706
         ]
       }
     },
@@ -339,11 +339,11 @@
         "saturation" : 0
       },
       "blendMode" : "Normal",
-      "id" : "F61FCA66-243E-455E-982B-DDACAECD8480",
+      "id" : "1C98DA8A-116C-44B1-84F7-D7E3F10D9870",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "F61FCA66-243E-455E-982B-DDACAECD8480.mask.png",
+      "maskFile" : "1C98DA8A-116C-44B1-84F7-D7E3F10D9870.mask.png",
       "maskLinked" : true,
       "name" : "05 · Canopy tone | dense warm shadows",
       "opacity" : 1,
@@ -551,19 +551,12 @@
             }
           ],
           "bands" : [
-            "Blues",
+            "Yellows",
             {
-              "falloffEnd" : 285,
-              "falloffStart" : 195,
-              "rangeEnd" : 255,
-              "rangeStart" : 225
-            },
-            "Cyans",
-            {
-              "falloffEnd" : 225,
-              "falloffStart" : 135,
-              "rangeEnd" : 195,
-              "rangeStart" : 165
+              "falloffEnd" : 105,
+              "falloffStart" : 15,
+              "rangeEnd" : 75,
+              "rangeStart" : 45
             },
             "Magentas",
             {
@@ -571,20 +564,6 @@
               "falloffStart" : 255,
               "rangeEnd" : 315,
               "rangeStart" : 285
-            },
-            "Greens",
-            {
-              "falloffEnd" : 165,
-              "falloffStart" : 75,
-              "rangeEnd" : 135,
-              "rangeStart" : 105
-            },
-            "Yellows",
-            {
-              "falloffEnd" : 105,
-              "falloffStart" : 15,
-              "rangeEnd" : 75,
-              "rangeStart" : 45
             },
             "Master",
             {
@@ -599,6 +578,27 @@
               "falloffStart" : 315,
               "rangeEnd" : 15,
               "rangeStart" : 345
+            },
+            "Blues",
+            {
+              "falloffEnd" : 285,
+              "falloffStart" : 195,
+              "rangeEnd" : 255,
+              "rangeStart" : 225
+            },
+            "Greens",
+            {
+              "falloffEnd" : 165,
+              "falloffStart" : 75,
+              "rangeEnd" : 135,
+              "rangeStart" : 105
+            },
+            "Cyans",
+            {
+              "falloffEnd" : 225,
+              "falloffStart" : 135,
+              "rangeEnd" : 195,
+              "rangeStart" : 165
             }
           ],
           "colorize" : false,
