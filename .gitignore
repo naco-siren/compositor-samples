@@ -1,0 +1,19 @@
+*
+!.gitignore
+!Sylvan - Double Exposure.comp/
+!Sylvan - Double Exposure.comp/**
+!Sylvan - Poster.png
+!Sylvan - Clean Artwork.png
+!Sylvan - Readme.txt
+!Workfiles/
+Workfiles/*
+!Workfiles/unify_exposure.py
+!Workfiles/refine_canopy.py
+!Workfiles/grow_anchored_canopy.py
+!Workfiles/Portrait-silhouette-original.png
+!Workfiles/global-AGENTS.md
+!Workfiles/tree-source.png
+!Workfiles/tree-source.mask.png
+!Workfiles/Sylvan-v1.comp/
+Workfiles/Sylvan-v1.comp/*
+!Workfiles/Sylvan-v1.comp/manifest.json
