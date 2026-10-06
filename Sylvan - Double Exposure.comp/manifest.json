@@ -1,5 +1,5 @@
 {
-  "activeLayerID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
+  "activeLayerID" : "C9A0EF41-E0F8-45C8-B3B3-B5AE106AC633",
   "colorSpace" : "sRGB",
   "documentID" : "94E43D3B-60CA-442D-BCD1-9844612805C5",
   "format" : "com.compositor.project",
@@ -85,7 +85,7 @@
         "blue" : 0.3333333333333333,
         "content" : "C O M P O S I T O R   \/   S T U D Y  0 1",
         "fontName" : "Helvetica",
-        "fontSize" : 24,
+        "fontSize" : 36,
         "green" : 0.37254901960784315,
         "leading" : 0,
         "red" : 0.3176470588235294,
@@ -95,14 +95,14 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          260,
-          230
+          232,
+          159
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1050,
-          70
+          666,
+          68
         ]
       }
     },
@@ -130,8 +130,8 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          250,
-          700
+          240,
+          512
         ],
         "rotation" : 0,
         "sampling" : "High quality",
@@ -165,8 +165,8 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          240,
-          830
+          232,
+          580
         ],
         "rotation" : 0,
         "sampling" : "High quality",
@@ -190,7 +190,7 @@
         "blue" : 0.1803921568627451,
         "content" : "A forest within.",
         "fontName" : "Baskerville-Italic",
-        "fontSize" : 80,
+        "fontSize" : 96,
         "green" : 0.24313725490196078,
         "leading" : 0,
         "red" : 0.14901960784313725,
@@ -200,14 +200,14 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          255,
-          1165
+          232,
+          1149
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1220,
-          180
+          539,
+          140
         ]
       }
     },
@@ -216,7 +216,7 @@
       "id" : "2E034F8C-64E1-40A4-B414-7BC98EBC734C",
       "imageFile" : "2E034F8C-64E1-40A4-B414-7BC98EBC734C.png",
       "isGroup" : false,
-      "isVisible" : false,
+      "isVisible" : true,
       "name" : "Portraits become landscapes. \/ Light becomes memory.",
       "opacity" : 1,
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
@@ -225,7 +225,7 @@
         "blue" : 0.21568627450980393,
         "content" : "Portraits become landscapes.\nLight becomes memory.",
         "fontName" : "Helvetica",
-        "fontSize" : 30,
+        "fontSize" : 36,
         "green" : 0.2823529411764706,
         "leading" : 47,
         "red" : 0.18823529411764706,
@@ -235,14 +235,14 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          260,
-          1375
+          232,
+          1289
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1050,
-          160
+          502,
+          118
         ]
       }
     },
@@ -251,7 +251,7 @@
       "id" : "2BD98759-331A-41FC-8F07-6C496AF22DFF",
       "imageFile" : "2BD98759-331A-41FC-8F07-6C496AF22DFF.png",
       "isGroup" : false,
-      "isVisible" : false,
+      "isVisible" : true,
       "name" : "PORTRAIT × NATURE     \/     2026",
       "opacity" : 1,
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
@@ -260,7 +260,7 @@
         "blue" : 0.23529411764705882,
         "content" : "PORTRAIT × NATURE     \/     2026",
         "fontName" : "Helvetica",
-        "fontSize" : 23,
+        "fontSize" : 36,
         "green" : 0.30196078431372547,
         "leading" : 0,
         "red" : 0.20392156862745098,
@@ -270,14 +270,14 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          260,
-          1790
+          232,
+          1784
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1400,
-          60
+          649,
+          68
         ]
       }
     },
@@ -295,7 +295,7 @@
         "blue" : 0.23529411764705882,
         "content" : "01",
         "fontName" : "Baskerville",
-        "fontSize" : 34,
+        "fontSize" : 36,
         "green" : 0.30196078431372547,
         "leading" : 0,
         "red" : 0.20392156862745098,
@@ -306,13 +306,13 @@
         "flipY" : false,
         "origin" : [
           2860,
-          1780
+          1784
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          150,
-          70
+          64,
+          68
         ]
       }
     },
@@ -321,22 +321,22 @@
       "id" : "3B2A7851-E72E-4A44-AD22-657FC2B86880",
       "imageFile" : "3B2A7851-E72E-4A44-AD22-657FC2B86880.png",
       "isGroup" : false,
-      "isVisible" : true,
+      "isVisible" : false,
       "name" : "Typography \/ fine rule",
       "opacity" : 1,
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
       "transform" : {
         "flipX" : false,
-        "flipY" : false,
+        "flipY" : true,
         "origin" : [
           260,
-          1320
+          1323
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          150,
-          3
+          442,
+          1
         ]
       }
     },
@@ -373,6 +373,20 @@
       "maskEnabled" : true,
       "maskFile" : "02A36175-8735-4D69-9B63-5E955D6BE985.mask.png",
       "maskLinked" : true,
+      "maskPlacement" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          -1.3383521539105914,
+          -142.2835633626098
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3202.676704307821,
+          2284.5671267252196
+        ]
+      },
       "name" : "Fog Forest",
       "opacity" : 0.78,
       "parentID" : "E55FCFF8-B22B-4164-A0BD-90F1AA5DB8C3",
@@ -556,7 +570,7 @@
         "flipY" : false,
         "origin" : [
           904.4790336970893,
-          -280.0741734500933
+          -280.07417345008525
         ],
         "rotation" : 0,
         "sampling" : "High quality",
@@ -996,12 +1010,12 @@
       "blendMode" : "Normal",
       "id" : "C9A0EF41-E0F8-45C8-B3B3-B5AE106AC633",
       "isGroup" : false,
-      "isVisible" : false,
+      "isVisible" : true,
       "maskEnabled" : true,
       "maskFile" : "C9A0EF41-E0F8-45C8-B3B3-B5AE106AC633.mask.png",
       "maskLinked" : true,
       "name" : "Canopy Tone",
-      "opacity" : 1,
+      "opacity" : 0.2784213362068966,
       "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
       "transform" : {
         "flipX" : false,
@@ -1204,7 +1218,7 @@
             {
               "hue" : 0,
               "lightness" : 0,
-              "saturation" : -32
+              "saturation" : 11
             }
           ],
           "bands" : [
@@ -1303,9 +1317,9 @@
       "blendMode" : "Normal",
       "id" : "821E186E-6FDE-4788-A7ED-BC190F3D28C8",
       "isGroup" : false,
-      "isVisible" : true,
+      "isVisible" : false,
       "name" : "Fresh Greens",
-      "opacity" : 1,
+      "opacity" : 0.33478294334975367,
       "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
       "transform" : {
         "flipX" : false,
