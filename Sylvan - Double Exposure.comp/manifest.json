@@ -30,15 +30,15 @@
     },
     {
       "blendMode" : "Normal",
-      "id" : "93737B55-4DB8-4CB9-BF22-5D48BB034DB8",
-      "imageFile" : "93737B55-4DB8-4CB9-BF22-5D48BB034DB8.png",
+      "id" : "02A36175-8735-4D69-9B63-5E955D6BE985",
+      "imageFile" : "02A36175-8735-4D69-9B63-5E955D6BE985.png",
       "isGroup" : false,
       "isVisible" : false,
       "maskEnabled" : true,
-      "maskFile" : "93737B55-4DB8-4CB9-BF22-5D48BB034DB8.mask.png",
+      "maskFile" : "02A36175-8735-4D69-9B63-5E955D6BE985.mask.png",
       "maskLinked" : true,
       "name" : "01b · Forest \/ COOL alternative | enable one forest",
-      "opacity" : 0.55,
+      "opacity" : 0.78,
       "transform" : {
         "flipX" : false,
         "flipY" : false,
@@ -56,15 +56,15 @@
     },
     {
       "blendMode" : "Normal",
-      "id" : "9DDE5D5C-D22A-4997-AA45-A6757CD484D5",
-      "imageFile" : "9DDE5D5C-D22A-4997-AA45-A6757CD484D5.png",
+      "id" : "F1CD4145-027C-4AF4-9097-F230A33DD640",
+      "imageFile" : "F1CD4145-027C-4AF4-9097-F230A33DD640.png",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "9DDE5D5C-D22A-4997-AA45-A6757CD484D5.mask.png",
+      "maskFile" : "F1CD4145-027C-4AF4-9097-F230A33DD640.mask.png",
       "maskLinked" : true,
-      "name" : "01c · Forest \/ WARM mist | subtle atmosphere",
-      "opacity" : 0.55,
+      "name" : "01c · Forest \/ WARM mist | visible mist \/ quiet typography",
+      "opacity" : 0.78,
       "transform" : {
         "flipX" : false,
         "flipY" : false,
@@ -89,19 +89,19 @@
             [
               {
                 "x" : 0,
-                "y" : 155
+                "y" : 70
               },
               {
                 "x" : 60,
-                "y" : 175
+                "y" : 118
               },
               {
                 "x" : 128,
-                "y" : 206
+                "y" : 170
               },
               {
                 "x" : 200,
-                "y" : 230
+                "y" : 216
               },
               {
                 "x" : 235,
@@ -109,7 +109,7 @@
               },
               {
                 "x" : 255,
-                "y" : 245
+                "y" : 246
               }
             ],
             [
@@ -183,7 +183,7 @@
         "saturation" : 0
       },
       "blendMode" : "Normal",
-      "id" : "B7C48CE7-94CF-410D-BDDB-A4D7D60EBACE",
+      "id" : "50B7DBF6-6BC9-4042-BF1F-37F0B157535F",
       "isGroup" : false,
       "isVisible" : true,
       "name" : "01d · Forest light | lifted shadows \/ quiet contrast",
@@ -328,11 +328,11 @@
         "saturation" : 0
       },
       "blendMode" : "Normal",
-      "id" : "BFB92999-D92D-4A71-88DE-8C20BA5E0460",
+      "id" : "4C42F4A7-B8FD-4A56-B73A-59B3CD4501DF",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "BFB92999-D92D-4A71-88DE-8C20BA5E0460.mask.png",
+      "maskFile" : "4C42F4A7-B8FD-4A56-B73A-59B3CD4501DF.mask.png",
       "maskLinked" : true,
       "name" : "02b · Portrait light | face recovery",
       "opacity" : 1,
@@ -450,11 +450,11 @@
         "saturation" : 0
       },
       "blendMode" : "Normal",
-      "id" : "5FEB7BC2-57E2-43B2-8A3D-31483C27D452",
+      "id" : "C0C9A228-C824-4FE8-8F05-350A66C0916B",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "5FEB7BC2-57E2-43B2-8A3D-31483C27D452.mask.png",
+      "maskFile" : "C0C9A228-C824-4FE8-8F05-350A66C0916B.mask.png",
       "maskLinked" : true,
       "name" : "02c · Shoulder contour | natural skin + cloth density",
       "opacity" : 1,
@@ -475,14 +475,14 @@
     },
     {
       "blendMode" : "Normal",
-      "id" : "1E65ED3E-FAB1-4D09-A5D2-D0FCC3B37C48",
-      "imageFile" : "1E65ED3E-FAB1-4D09-A5D2-D0FCC3B37C48.png",
+      "id" : "ABFBAC5A-CC88-4249-90DA-68B4549EF424",
+      "imageFile" : "ABFBAC5A-CC88-4249-90DA-68B4549EF424.png",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "1E65ED3E-FAB1-4D09-A5D2-D0FCC3B37C48.mask.png",
+      "maskFile" : "ABFBAC5A-CC88-4249-90DA-68B4549EF424.mask.png",
       "maskLinked" : true,
-      "name" : "03 · ONE TREE | alpha polish \/ -7° tilt",
+      "name" : "03 · ONE TREE | continuous curved lower silhouette",
       "opacity" : 1,
       "transform" : {
         "flipX" : false,
@@ -501,12 +501,12 @@
     },
     {
       "blendMode" : "Multiply",
-      "id" : "5DB509C7-5FBD-4077-B392-95707270D6D6",
-      "imageFile" : "5DB509C7-5FBD-4077-B392-95707270D6D6.png",
+      "id" : "C0446A14-9682-40FA-8DDE-1FCC5CC9716E",
+      "imageFile" : "C0446A14-9682-40FA-8DDE-1FCC5CC9716E.png",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "5DB509C7-5FBD-4077-B392-95707270D6D6.mask.png",
+      "maskFile" : "C0446A14-9682-40FA-8DDE-1FCC5CC9716E.mask.png",
       "maskLinked" : true,
       "name" : "04 · SAME TREE | extended cheek-to-jaw transition",
       "opacity" : 1,
@@ -636,11 +636,11 @@
         "saturation" : 0
       },
       "blendMode" : "Normal",
-      "id" : "F53EDD15-0160-42AA-B103-A38D7FBD6824",
+      "id" : "C9A0EF41-E0F8-45C8-B3B3-B5AE106AC633",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "F53EDD15-0160-42AA-B103-A38D7FBD6824.mask.png",
+      "maskFile" : "C9A0EF41-E0F8-45C8-B3B3-B5AE106AC633.mask.png",
       "maskLinked" : true,
       "name" : "05 · Canopy tone | dense warm shadows",
       "opacity" : 1,
@@ -848,20 +848,6 @@
             }
           ],
           "bands" : [
-            "Greens",
-            {
-              "falloffEnd" : 165,
-              "falloffStart" : 75,
-              "rangeEnd" : 135,
-              "rangeStart" : 105
-            },
-            "Magentas",
-            {
-              "falloffEnd" : 345,
-              "falloffStart" : 255,
-              "rangeEnd" : 315,
-              "rangeStart" : 285
-            },
             "Cyans",
             {
               "falloffEnd" : 225,
@@ -876,6 +862,27 @@
               "rangeEnd" : 15,
               "rangeStart" : 345
             },
+            "Master",
+            {
+              "falloffEnd" : 360,
+              "falloffStart" : 0,
+              "rangeEnd" : 360,
+              "rangeStart" : 0
+            },
+            "Magentas",
+            {
+              "falloffEnd" : 345,
+              "falloffStart" : 255,
+              "rangeEnd" : 315,
+              "rangeStart" : 285
+            },
+            "Greens",
+            {
+              "falloffEnd" : 165,
+              "falloffStart" : 75,
+              "rangeEnd" : 135,
+              "rangeStart" : 105
+            },
             "Yellows",
             {
               "falloffEnd" : 105,
@@ -889,13 +896,6 @@
               "falloffStart" : 195,
               "rangeEnd" : 255,
               "rangeStart" : 225
-            },
-            "Master",
-            {
-              "falloffEnd" : 360,
-              "falloffStart" : 0,
-              "rangeEnd" : 360,
-              "rangeStart" : 0
             }
           ],
           "colorize" : false,
@@ -1029,13 +1029,13 @@
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
       "text" : {
         "alignment" : "Left",
-        "blue" : 0.3803921568627451,
+        "blue" : 0.2901960784313726,
         "content" : "DOUBLE EXPOSURE",
         "fontName" : "Helvetica",
         "fontSize" : 25,
-        "green" : 0.44313725490196076,
+        "green" : 0.3568627450980392,
         "leading" : 0,
-        "red" : 0.39215686274509803,
+        "red" : 0.27450980392156865,
         "tracking" : 5
       },
       "transform" : {
@@ -1099,13 +1099,13 @@
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
       "text" : {
         "alignment" : "Left",
-        "blue" : 0.3568627450980392,
+        "blue" : 0.23921568627450981,
         "content" : "A forest within.",
         "fontName" : "Baskerville-Italic",
         "fontSize" : 57,
-        "green" : 0.403921568627451,
+        "green" : 0.30196078431372547,
         "leading" : 0,
-        "red" : 0.3411764705882353,
+        "red" : 0.21568627450980393,
         "tracking" : 0
       },
       "transform" : {
@@ -1134,13 +1134,13 @@
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
       "text" : {
         "alignment" : "Left",
-        "blue" : 0.4,
+        "blue" : 0.21568627450980393,
         "content" : "Portraits become landscapes.\nLight becomes memory.",
         "fontName" : "Helvetica",
         "fontSize" : 30,
-        "green" : 0.45098039215686275,
+        "green" : 0.2823529411764706,
         "leading" : 47,
-        "red" : 0.396078431372549,
+        "red" : 0.18823529411764706,
         "tracking" : 0
       },
       "transform" : {
@@ -1169,13 +1169,13 @@
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
       "text" : {
         "alignment" : "Left",
-        "blue" : 0.4235294117647059,
+        "blue" : 0.23529411764705882,
         "content" : "PORTRAIT × NATURE     \/     2026",
         "fontName" : "Helvetica",
         "fontSize" : 23,
-        "green" : 0.4823529411764706,
+        "green" : 0.30196078431372547,
         "leading" : 0,
-        "red" : 0.43137254901960786,
+        "red" : 0.20392156862745098,
         "tracking" : 2
       },
       "transform" : {
@@ -1204,13 +1204,13 @@
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
       "text" : {
         "alignment" : "Left",
-        "blue" : 0.3568627450980392,
+        "blue" : 0.23529411764705882,
         "content" : "01",
         "fontName" : "Baskerville",
         "fontSize" : 34,
-        "green" : 0.403921568627451,
+        "green" : 0.30196078431372547,
         "leading" : 0,
-        "red" : 0.3411764705882353,
+        "red" : 0.20392156862745098,
         "tracking" : 0
       },
       "transform" : {

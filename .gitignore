@@ -21,3 +21,6 @@ Workfiles/Sylvan-v1.comp/*
 !Workfiles/finish_forest.py
 !Workfiles/add_forest_background.py
 !Sylvan - Cool Forest Poster.png
+!Workfiles/fix_continuous_edge.py
+!Workfiles/forest_visible.py
+!Workfiles/restore_type_contrast.py
