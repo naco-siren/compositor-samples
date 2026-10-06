@@ -1,962 +1,1139 @@
 {
-  "activeLayerID" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8",
-  "colorSpace" : "sRGB",
-  "documentID" : "94E43D3B-60CA-442D-BCD1-9844612805C5",
-  "format" : "com.compositor.project",
-  "height" : 2000,
-  "layers" : [
+  "activeLayerID": "13AB39FE-32FC-4FB6-989F-030D200F0EE8",
+  "colorSpace": "sRGB",
+  "documentID": "94E43D3B-60CA-442D-BCD1-9844612805C5",
+  "format": "com.compositor.project",
+  "height": 2000,
+  "layers": [
     {
-      "blendMode" : "Normal",
-      "id" : "BB685F6E-686C-4C90-9CA6-D5392968BDAC",
-      "imageFile" : "BB685F6E-686C-4C90-9CA6-D5392968BDAC.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "01 · Mist \/ background",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "blendMode": "Normal",
+      "id": "BB685F6E-686C-4C90-9CA6-D5392968BDAC",
+      "imageFile": "BB685F6E-686C-4C90-9CA6-D5392968BDAC.png",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "01 \u00b7 Mist / background",
+      "opacity": 1,
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           0,
           0
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           3200,
           2000
         ]
       }
     },
     {
-      "blendMode" : "Normal",
-      "id" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8",
-      "imageFile" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8.mask.png",
-      "maskLinked" : true,
-      "name" : "02 · Portrait | leaf-shaped transition",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "id": "030BE0FF-9B2E-45DD-8C7F-A9D59A3E9340",
+      "name": "01b \u00b7 Forest / COOL alternative | enable one forest",
+      "imageFile": "030BE0FF-9B2E-45DD-8C7F-A9D59A3E9340.png",
+      "maskFile": "030BE0FF-9B2E-45DD-8C7F-A9D59A3E9340.mask.png",
+      "maskEnabled": true,
+      "maskLinked": true,
+      "blendMode": "Normal",
+      "opacity": 0.55,
+      "isVisible": false,
+      "isGroup": false,
+      "transform": {
+        "origin": [
+          0.0,
+          -142.2835633626098
+        ],
+        "size": [
+          3200.0,
+          2284.5671267252196
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      }
+    },
+    {
+      "id": "68A826B4-B792-4E38-B713-25574F1C3698",
+      "name": "01c \u00b7 Forest / WARM mist | subtle atmosphere",
+      "imageFile": "68A826B4-B792-4E38-B713-25574F1C3698.png",
+      "maskFile": "68A826B4-B792-4E38-B713-25574F1C3698.mask.png",
+      "maskEnabled": true,
+      "maskLinked": true,
+      "blendMode": "Normal",
+      "opacity": 0.55,
+      "isVisible": true,
+      "isGroup": false,
+      "transform": {
+        "origin": [
+          0.0,
+          -66.66666666666652
+        ],
+        "size": [
+          3200.0,
+          2133.333333333333
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      }
+    },
+    {
+      "adjustment": {
+        "colorize": false,
+        "curves": {
+          "channel": "RGB",
+          "channels": [
+            [
+              {
+                "x": 0,
+                "y": 155
+              },
+              {
+                "x": 60,
+                "y": 175
+              },
+              {
+                "x": 128,
+                "y": 206
+              },
+              {
+                "x": 200,
+                "y": 230
+              },
+              {
+                "x": 235,
+                "y": 235
+              },
+              {
+                "x": 255,
+                "y": 245
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          ]
+        },
+        "hue": 0,
+        "kind": "Curves",
+        "levels": {
+          "channel": "RGB",
+          "ranges": [
+            {
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
+            }
+          ]
+        },
+        "lightness": 0,
+        "saturation": 0
+      },
+      "blendMode": "Normal",
+      "id": "BBF0B7C9-E049-406C-99B9-D837D44D8117",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "01d \u00b7 Forest light | lifted shadows / quiet contrast",
+      "opacity": 1,
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
+          0,
+          0
+        ],
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
+          3200,
+          2000
+        ]
+      },
+      "maskEnabled": false,
+      "maskLinked": true
+    },
+    {
+      "blendMode": "Normal",
+      "id": "13AB39FE-32FC-4FB6-989F-030D200F0EE8",
+      "imageFile": "13AB39FE-32FC-4FB6-989F-030D200F0EE8.png",
+      "isGroup": false,
+      "isVisible": true,
+      "maskEnabled": true,
+      "maskFile": "13AB39FE-32FC-4FB6-989F-030D200F0EE8.mask.png",
+      "maskLinked": true,
+      "name": "02 \u00b7 Portrait | clean shoulder + leaf transition",
+      "opacity": 1,
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           1100,
           0
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           2500,
           2000
         ]
       }
     },
     {
-      "adjustment" : {
-        "colorize" : false,
-        "curves" : {
-          "channel" : "RGB",
-          "channels" : [
+      "adjustment": {
+        "colorize": false,
+        "curves": {
+          "channel": "RGB",
+          "channels": [
             [
               {
-                "x" : 0,
-                "y" : 0
+                "x": 0,
+                "y": 0
               },
               {
-                "x" : 45,
-                "y" : 68
+                "x": 45,
+                "y": 68
               },
               {
-                "x" : 100,
-                "y" : 139
+                "x": 100,
+                "y": 139
               },
               {
-                "x" : 180,
-                "y" : 208
+                "x": 180,
+                "y": 208
               },
               {
-                "x" : 255,
-                "y" : 255
+                "x": 255,
+                "y": 255
               }
             ],
             [
               {
-                "x" : 0,
-                "y" : 0
+                "x": 0,
+                "y": 0
               },
               {
-                "x" : 255,
-                "y" : 255
+                "x": 255,
+                "y": 255
               }
             ],
             [
               {
-                "x" : 0,
-                "y" : 0
+                "x": 0,
+                "y": 0
               },
               {
-                "x" : 255,
-                "y" : 255
+                "x": 255,
+                "y": 255
               }
             ],
             [
               {
-                "x" : 0,
-                "y" : 0
+                "x": 0,
+                "y": 0
               },
               {
-                "x" : 255,
-                "y" : 255
+                "x": 255,
+                "y": 255
               }
             ]
           ]
         },
-        "hue" : 0,
-        "kind" : "Curves",
-        "levels" : {
-          "channel" : "RGB",
-          "ranges" : [
+        "hue": 0,
+        "kind": "Curves",
+        "levels": {
+          "channel": "RGB",
+          "ranges": [
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             },
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             },
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             },
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             }
           ]
         },
-        "lightness" : 0,
-        "saturation" : 0
+        "lightness": 0,
+        "saturation": 0
       },
-      "blendMode" : "Normal",
-      "id" : "713C04CE-C34E-4B85-958C-6B1D5CCB42D0",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "713C04CE-C34E-4B85-958C-6B1D5CCB42D0.mask.png",
-      "maskLinked" : true,
-      "name" : "02b · Portrait light | face recovery",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "blendMode": "Normal",
+      "id": "5A8E7E3D-9F99-4E25-B19A-13D052049629",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "02b \u00b7 Portrait light | face recovery",
+      "opacity": 1,
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           0,
           0
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           3200,
           2000
         ]
-      }
+      },
+      "maskFile": "5A8E7E3D-9F99-4E25-B19A-13D052049629.mask.png",
+      "maskEnabled": true,
+      "maskLinked": true
     },
     {
-      "blendMode" : "Normal",
-      "id" : "1D100974-7CC0-44B5-AFDA-037281B12401",
-      "imageFile" : "1D100974-7CC0-44B5-AFDA-037281B12401.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "1D100974-7CC0-44B5-AFDA-037281B12401.mask.png",
-      "maskLinked" : true,
-      "name" : "03 · ONE TREE | alpha polish \/ -7° tilt",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "id": "8BA15DC9-0A20-4A09-B804-1030A195EDE4",
+      "name": "03 \u00b7 ONE TREE | alpha polish / -7\u00b0 tilt",
+      "imageFile": "8BA15DC9-0A20-4A09-B804-1030A195EDE4.png",
+      "maskFile": "8BA15DC9-0A20-4A09-B804-1030A195EDE4.mask.png",
+      "maskEnabled": true,
+      "maskLinked": true,
+      "blendMode": "Normal",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 1,
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           -73.21612960059747,
           62.8137235568106
         ],
-        "rotation" : -7,
-        "sampling" : "High quality",
-        "size" : [
+        "size": [
           4512.5,
           2986.6422178020885
-        ]
+        ],
+        "rotation": -7.0,
+        "sampling": "High quality"
       }
     },
     {
-      "blendMode" : "Multiply",
-      "id" : "265CF152-0DC3-4C9C-BE75-78E044C4CF9A",
-      "imageFile" : "265CF152-0DC3-4C9C-BE75-78E044C4CF9A.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "265CF152-0DC3-4C9C-BE75-78E044C4CF9A.mask.png",
-      "maskLinked" : true,
-      "name" : "04 · SAME TREE | extended cheek-to-jaw transition",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "id": "C1FF792D-4A8B-4615-B01A-590C12FC5E96",
+      "name": "04 \u00b7 SAME TREE | extended cheek-to-jaw transition",
+      "imageFile": "C1FF792D-4A8B-4615-B01A-590C12FC5E96.png",
+      "maskFile": "C1FF792D-4A8B-4615-B01A-590C12FC5E96.mask.png",
+      "maskEnabled": true,
+      "maskLinked": true,
+      "blendMode": "Multiply",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 1,
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           -73.21612960059747,
           62.8137235568106
         ],
-        "rotation" : -7,
-        "sampling" : "High quality",
-        "size" : [
+        "size": [
           4512.5,
           2986.6422178020885
-        ]
+        ],
+        "rotation": -7.0,
+        "sampling": "High quality"
       }
     },
     {
-      "adjustment" : {
-        "colorize" : false,
-        "curves" : {
-          "channel" : "RGB",
-          "channels" : [
+      "adjustment": {
+        "colorize": false,
+        "curves": {
+          "channel": "RGB",
+          "channels": [
             [
               {
-                "x" : 0,
-                "y" : 0
+                "x": 0,
+                "y": 0
               },
               {
-                "x" : 60,
-                "y" : 23
+                "x": 60,
+                "y": 23
               },
               {
-                "x" : 128,
-                "y" : 80
+                "x": 128,
+                "y": 80
               },
               {
-                "x" : 200,
-                "y" : 165
+                "x": 200,
+                "y": 165
               },
               {
-                "x" : 255,
-                "y" : 245
+                "x": 255,
+                "y": 245
               }
             ],
             [
               {
-                "x" : 0,
-                "y" : 4
+                "x": 0,
+                "y": 4
               },
               {
-                "x" : 128,
-                "y" : 142
+                "x": 128,
+                "y": 142
               },
               {
-                "x" : 255,
-                "y" : 255
+                "x": 255,
+                "y": 255
               }
             ],
             [
               {
-                "x" : 0,
-                "y" : 0
+                "x": 0,
+                "y": 0
               },
               {
-                "x" : 128,
-                "y" : 113
+                "x": 128,
+                "y": 113
               },
               {
-                "x" : 255,
-                "y" : 246
+                "x": 255,
+                "y": 246
               }
             ],
             [
               {
-                "x" : 0,
-                "y" : 0
+                "x": 0,
+                "y": 0
               },
               {
-                "x" : 128,
-                "y" : 101
+                "x": 128,
+                "y": 101
               },
               {
-                "x" : 255,
-                "y" : 225
+                "x": 255,
+                "y": 225
               }
             ]
           ]
         },
-        "hue" : 0,
-        "kind" : "Curves",
-        "levels" : {
-          "channel" : "RGB",
-          "ranges" : [
+        "hue": 0,
+        "kind": "Curves",
+        "levels": {
+          "channel": "RGB",
+          "ranges": [
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             },
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             },
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             },
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             }
           ]
         },
-        "lightness" : 0,
-        "saturation" : 0
+        "lightness": 0,
+        "saturation": 0
       },
-      "blendMode" : "Normal",
-      "id" : "3A684B41-3601-4A09-9A33-71F05D23261B",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "3A684B41-3601-4A09-9A33-71F05D23261B.mask.png",
-      "maskLinked" : true,
-      "name" : "05 · Canopy tone | dense warm shadows",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "blendMode": "Normal",
+      "id": "B5732FB0-F2B5-4919-919D-2E93FD987789",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "05 \u00b7 Canopy tone | dense warm shadows",
+      "opacity": 1,
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           0,
           0
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
+          3200,
+          2000
+        ]
+      },
+      "maskFile": "B5732FB0-F2B5-4919-919D-2E93FD987789.mask.png",
+      "maskEnabled": true,
+      "maskLinked": true
+    },
+    {
+      "adjustment": {
+        "colorize": false,
+        "curves": {
+          "channel": "RGB",
+          "channels": [
+            [
+              {
+                "x": 0,
+                "y": 5
+              },
+              {
+                "x": 55,
+                "y": 51
+              },
+              {
+                "x": 128,
+                "y": 134
+              },
+              {
+                "x": 210,
+                "y": 219
+              },
+              {
+                "x": 255,
+                "y": 250
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 3
+              },
+              {
+                "x": 128,
+                "y": 130
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 7
+              },
+              {
+                "x": 128,
+                "y": 131
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 9
+              },
+              {
+                "x": 128,
+                "y": 125
+              },
+              {
+                "x": 255,
+                "y": 247
+              }
+            ]
+          ]
+        },
+        "hue": 0,
+        "kind": "Curves",
+        "levels": {
+          "channel": "RGB",
+          "ranges": [
+            {
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
+            }
+          ]
+        },
+        "lightness": 0,
+        "saturation": 0
+      },
+      "blendMode": "Normal",
+      "id": "93C15125-3EA8-4C3C-B1FB-7BCC28051CF6",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "06 \u00b7 Film curve | open shadows / soft highlights",
+      "opacity": 1,
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
+          0,
+          0
+        ],
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           3200,
           2000
         ]
       }
     },
     {
-      "adjustment" : {
-        "colorize" : false,
-        "curves" : {
-          "channel" : "RGB",
-          "channels" : [
+      "adjustment": {
+        "colorize": false,
+        "curves": {
+          "channel": "RGB",
+          "channels": [
             [
               {
-                "x" : 0,
-                "y" : 5
+                "x": 0,
+                "y": 0
               },
               {
-                "x" : 55,
-                "y" : 51
-              },
-              {
-                "x" : 128,
-                "y" : 134
-              },
-              {
-                "x" : 210,
-                "y" : 219
-              },
-              {
-                "x" : 255,
-                "y" : 250
+                "x": 255,
+                "y": 255
               }
             ],
             [
               {
-                "x" : 0,
-                "y" : 3
+                "x": 0,
+                "y": 0
               },
               {
-                "x" : 128,
-                "y" : 130
-              },
-              {
-                "x" : 255,
-                "y" : 255
+                "x": 255,
+                "y": 255
               }
             ],
             [
               {
-                "x" : 0,
-                "y" : 7
+                "x": 0,
+                "y": 0
               },
               {
-                "x" : 128,
-                "y" : 131
-              },
-              {
-                "x" : 255,
-                "y" : 255
+                "x": 255,
+                "y": 255
               }
             ],
             [
               {
-                "x" : 0,
-                "y" : 9
+                "x": 0,
+                "y": 0
               },
               {
-                "x" : 128,
-                "y" : 125
-              },
-              {
-                "x" : 255,
-                "y" : 247
+                "x": 255,
+                "y": 255
               }
             ]
           ]
         },
-        "hue" : 0,
-        "kind" : "Curves",
-        "levels" : {
-          "channel" : "RGB",
-          "ranges" : [
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            }
-          ]
-        },
-        "lightness" : 0,
-        "saturation" : 0
-      },
-      "blendMode" : "Normal",
-      "id" : "93C15125-3EA8-4C3C-B1FB-7BCC28051CF6",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "06 · Film curve | open shadows \/ soft highlights",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          0,
-          0
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          3200,
-          2000
-        ]
-      }
-    },
-    {
-      "adjustment" : {
-        "colorize" : false,
-        "curves" : {
-          "channel" : "RGB",
-          "channels" : [
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ]
-          ]
-        },
-        "hsvSettings" : {
-          "adjustments" : [
+        "hsvSettings": {
+          "adjustments": [
             "Master",
             {
-              "hue" : 0,
-              "lightness" : 0,
-              "saturation" : -32
+              "hue": 0,
+              "lightness": 0,
+              "saturation": -32
             }
           ],
-          "bands" : [
-            "Cyans",
+          "bands": [
+            "Greens",
             {
-              "falloffEnd" : 225,
-              "falloffStart" : 135,
-              "rangeEnd" : 195,
-              "rangeStart" : 165
-            },
-            "Blues",
-            {
-              "falloffEnd" : 285,
-              "falloffStart" : 195,
-              "rangeEnd" : 255,
-              "rangeStart" : 225
+              "falloffEnd": 165,
+              "falloffStart": 75,
+              "rangeEnd": 135,
+              "rangeStart": 105
             },
             "Reds",
             {
-              "falloffEnd" : 45,
-              "falloffStart" : 315,
-              "rangeEnd" : 15,
-              "rangeStart" : 345
+              "falloffEnd": 45,
+              "falloffStart": 315,
+              "rangeEnd": 15,
+              "rangeStart": 345
             },
-            "Master",
+            "Blues",
             {
-              "falloffEnd" : 360,
-              "falloffStart" : 0,
-              "rangeEnd" : 360,
-              "rangeStart" : 0
+              "falloffEnd": 285,
+              "falloffStart": 195,
+              "rangeEnd": 255,
+              "rangeStart": 225
+            },
+            "Cyans",
+            {
+              "falloffEnd": 225,
+              "falloffStart": 135,
+              "rangeEnd": 195,
+              "rangeStart": 165
             },
             "Yellows",
             {
-              "falloffEnd" : 105,
-              "falloffStart" : 15,
-              "rangeEnd" : 75,
-              "rangeStart" : 45
+              "falloffEnd": 105,
+              "falloffStart": 15,
+              "rangeEnd": 75,
+              "rangeStart": 45
             },
-            "Greens",
+            "Master",
             {
-              "falloffEnd" : 165,
-              "falloffStart" : 75,
-              "rangeEnd" : 135,
-              "rangeStart" : 105
+              "falloffEnd": 360,
+              "falloffStart": 0,
+              "rangeEnd": 360,
+              "rangeStart": 0
             },
             "Magentas",
             {
-              "falloffEnd" : 345,
-              "falloffStart" : 255,
-              "rangeEnd" : 315,
-              "rangeStart" : 285
+              "falloffEnd": 345,
+              "falloffStart": 255,
+              "rangeEnd": 315,
+              "rangeStart": 285
             }
           ],
-          "colorize" : false,
-          "invertRange" : false,
-          "range" : "Master"
+          "colorize": false,
+          "invertRange": false,
+          "range": "Master"
         },
-        "hue" : 0,
-        "kind" : "Hue\/Saturation",
-        "levels" : {
-          "channel" : "RGB",
-          "ranges" : [
+        "hue": 0,
+        "kind": "Hue/Saturation",
+        "levels": {
+          "channel": "RGB",
+          "ranges": [
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             },
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             },
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             },
             {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
+              "black": 0,
+              "gamma": 1,
+              "outputBlack": 0,
+              "outputWhite": 255,
+              "white": 255
             }
           ]
         },
-        "lightness" : 0,
-        "saturation" : 0
+        "lightness": 0,
+        "saturation": 0
       },
-      "blendMode" : "Normal",
-      "id" : "821E186E-6FDE-4788-A7ED-BC190F3D28C8",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "07 · Palette | desaturated sage",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "blendMode": "Normal",
+      "id": "821E186E-6FDE-4788-A7ED-BC190F3D28C8",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "07 \u00b7 Palette | desaturated sage",
+      "opacity": 1,
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           0,
           0
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           3200,
           2000
         ]
       }
     },
     {
-      "blendMode" : "Normal",
-      "id" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
-      "isGroup" : true,
-      "isVisible" : true,
-      "name" : "08 · TYPOGRAPHY | toggle for clean artwork",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "blendMode": "Normal",
+      "id": "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
+      "isGroup": true,
+      "isVisible": true,
+      "name": "08 \u00b7 TYPOGRAPHY | toggle for clean artwork",
+      "opacity": 1,
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           0,
           0
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           3200,
           2000
         ]
       }
     },
     {
-      "blendMode" : "Normal",
-      "id" : "6ECD1ECA-C1FC-41F0-B33D-3A42F65A4C9E",
-      "imageFile" : "6ECD1ECA-C1FC-41F0-B33D-3A42F65A4C9E.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "C O M P O S I T O R   \/   S T U D Y  0 1",
-      "opacity" : 1,
-      "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
-      "text" : {
-        "alignment" : "Left",
-        "blue" : 0.3333333333333333,
-        "content" : "C O M P O S I T O R   \/   S T U D Y  0 1",
-        "fontName" : "Helvetica",
-        "fontSize" : 24,
-        "green" : 0.37254901960784315,
-        "leading" : 0,
-        "red" : 0.3176470588235294,
-        "tracking" : 0
+      "blendMode": "Normal",
+      "id": "6ECD1ECA-C1FC-41F0-B33D-3A42F65A4C9E",
+      "imageFile": "6ECD1ECA-C1FC-41F0-B33D-3A42F65A4C9E.png",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "C O M P O S I T O R   /   S T U D Y  0 1",
+      "opacity": 1,
+      "parentID": "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
+      "text": {
+        "alignment": "Left",
+        "blue": 0.3333333333333333,
+        "content": "C O M P O S I T O R   /   S T U D Y  0 1",
+        "fontName": "Helvetica",
+        "fontSize": 24,
+        "green": 0.37254901960784315,
+        "leading": 0,
+        "red": 0.3176470588235294,
+        "tracking": 0
       },
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           260,
           230
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           1050,
           70
         ]
       }
     },
     {
-      "blendMode" : "Normal",
-      "id" : "1478C1DE-B5FE-4BDF-9576-470A44C2222F",
-      "imageFile" : "1478C1DE-B5FE-4BDF-9576-470A44C2222F.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "DOUBLE EXPOSURE",
-      "opacity" : 1,
-      "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
-      "text" : {
-        "alignment" : "Left",
-        "blue" : 0.3803921568627451,
-        "content" : "DOUBLE EXPOSURE",
-        "fontName" : "Helvetica",
-        "fontSize" : 25,
-        "green" : 0.44313725490196076,
-        "leading" : 0,
-        "red" : 0.39215686274509803,
-        "tracking" : 5
+      "blendMode": "Normal",
+      "id": "1478C1DE-B5FE-4BDF-9576-470A44C2222F",
+      "imageFile": "1478C1DE-B5FE-4BDF-9576-470A44C2222F.png",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "DOUBLE EXPOSURE",
+      "opacity": 1,
+      "parentID": "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
+      "text": {
+        "alignment": "Left",
+        "blue": 0.3803921568627451,
+        "content": "DOUBLE EXPOSURE",
+        "fontName": "Helvetica",
+        "fontSize": 25,
+        "green": 0.44313725490196076,
+        "leading": 0,
+        "red": 0.39215686274509803,
+        "tracking": 5
       },
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           260,
           790
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           1000,
           65
         ]
       }
     },
     {
-      "blendMode" : "Normal",
-      "id" : "5E56A3C0-182C-47E5-9745-05E2E28D9DB2",
-      "imageFile" : "5E56A3C0-182C-47E5-9745-05E2E28D9DB2.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "SYLVAN",
-      "opacity" : 1,
-      "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
-      "text" : {
-        "alignment" : "Left",
-        "blue" : 0.2196078431372549,
-        "content" : "SYLVAN",
-        "fontName" : "Baskerville",
-        "fontSize" : 190,
-        "green" : 0.24313725490196078,
-        "leading" : 0,
-        "red" : 0.17254901960784313,
-        "tracking" : 4
+      "blendMode": "Normal",
+      "id": "5E56A3C0-182C-47E5-9745-05E2E28D9DB2",
+      "imageFile": "5E56A3C0-182C-47E5-9745-05E2E28D9DB2.png",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "SYLVAN",
+      "opacity": 1,
+      "parentID": "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
+      "text": {
+        "alignment": "Left",
+        "blue": 0.2196078431372549,
+        "content": "SYLVAN",
+        "fontName": "Baskerville",
+        "fontSize": 190,
+        "green": 0.24313725490196078,
+        "leading": 0,
+        "red": 0.17254901960784313,
+        "tracking": 4
       },
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           250,
           865
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           1100,
           260
         ]
       }
     },
     {
-      "blendMode" : "Normal",
-      "id" : "E77335E5-BD97-4F20-B36A-153A97908146",
-      "imageFile" : "E77335E5-BD97-4F20-B36A-153A97908146.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "A forest within.",
-      "opacity" : 1,
-      "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
-      "text" : {
-        "alignment" : "Left",
-        "blue" : 0.3568627450980392,
-        "content" : "A forest within.",
-        "fontName" : "Baskerville-Italic",
-        "fontSize" : 57,
-        "green" : 0.403921568627451,
-        "leading" : 0,
-        "red" : 0.3411764705882353,
-        "tracking" : 0
+      "blendMode": "Normal",
+      "id": "E77335E5-BD97-4F20-B36A-153A97908146",
+      "imageFile": "E77335E5-BD97-4F20-B36A-153A97908146.png",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "A forest within.",
+      "opacity": 1,
+      "parentID": "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
+      "text": {
+        "alignment": "Left",
+        "blue": 0.3568627450980392,
+        "content": "A forest within.",
+        "fontName": "Baskerville-Italic",
+        "fontSize": 57,
+        "green": 0.403921568627451,
+        "leading": 0,
+        "red": 0.3411764705882353,
+        "tracking": 0
       },
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           260,
           1150
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           1000,
           120
         ]
       }
     },
     {
-      "blendMode" : "Normal",
-      "id" : "2E034F8C-64E1-40A4-B414-7BC98EBC734C",
-      "imageFile" : "2E034F8C-64E1-40A4-B414-7BC98EBC734C.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "Portraits become landscapes. \/ Light becomes memory.",
-      "opacity" : 1,
-      "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
-      "text" : {
-        "alignment" : "Left",
-        "blue" : 0.4,
-        "content" : "Portraits become landscapes.\nLight becomes memory.",
-        "fontName" : "Helvetica",
-        "fontSize" : 30,
-        "green" : 0.45098039215686275,
-        "leading" : 47,
-        "red" : 0.396078431372549,
-        "tracking" : 0
+      "blendMode": "Normal",
+      "id": "2E034F8C-64E1-40A4-B414-7BC98EBC734C",
+      "imageFile": "2E034F8C-64E1-40A4-B414-7BC98EBC734C.png",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "Portraits become landscapes. / Light becomes memory.",
+      "opacity": 1,
+      "parentID": "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
+      "text": {
+        "alignment": "Left",
+        "blue": 0.4,
+        "content": "Portraits become landscapes.\nLight becomes memory.",
+        "fontName": "Helvetica",
+        "fontSize": 30,
+        "green": 0.45098039215686275,
+        "leading": 47,
+        "red": 0.396078431372549,
+        "tracking": 0
       },
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           260,
           1375
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           1050,
           160
         ]
       }
     },
     {
-      "blendMode" : "Normal",
-      "id" : "2BD98759-331A-41FC-8F07-6C496AF22DFF",
-      "imageFile" : "2BD98759-331A-41FC-8F07-6C496AF22DFF.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "PORTRAIT × NATURE     \/     2026",
-      "opacity" : 1,
-      "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
-      "text" : {
-        "alignment" : "Left",
-        "blue" : 0.4235294117647059,
-        "content" : "PORTRAIT × NATURE     \/     2026",
-        "fontName" : "Helvetica",
-        "fontSize" : 23,
-        "green" : 0.4823529411764706,
-        "leading" : 0,
-        "red" : 0.43137254901960786,
-        "tracking" : 2
+      "blendMode": "Normal",
+      "id": "2BD98759-331A-41FC-8F07-6C496AF22DFF",
+      "imageFile": "2BD98759-331A-41FC-8F07-6C496AF22DFF.png",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "PORTRAIT \u00d7 NATURE     /     2026",
+      "opacity": 1,
+      "parentID": "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
+      "text": {
+        "alignment": "Left",
+        "blue": 0.4235294117647059,
+        "content": "PORTRAIT \u00d7 NATURE     /     2026",
+        "fontName": "Helvetica",
+        "fontSize": 23,
+        "green": 0.4823529411764706,
+        "leading": 0,
+        "red": 0.43137254901960786,
+        "tracking": 2
       },
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           260,
           1790
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           1400,
           60
         ]
       }
     },
     {
-      "blendMode" : "Normal",
-      "id" : "AB4F9C38-98C3-4B26-AD64-6AA71B25A03B",
-      "imageFile" : "AB4F9C38-98C3-4B26-AD64-6AA71B25A03B.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "01",
-      "opacity" : 1,
-      "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
-      "text" : {
-        "alignment" : "Left",
-        "blue" : 0.3568627450980392,
-        "content" : "01",
-        "fontName" : "Baskerville",
-        "fontSize" : 34,
-        "green" : 0.403921568627451,
-        "leading" : 0,
-        "red" : 0.3411764705882353,
-        "tracking" : 0
+      "blendMode": "Normal",
+      "id": "AB4F9C38-98C3-4B26-AD64-6AA71B25A03B",
+      "imageFile": "AB4F9C38-98C3-4B26-AD64-6AA71B25A03B.png",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "01",
+      "opacity": 1,
+      "parentID": "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
+      "text": {
+        "alignment": "Left",
+        "blue": 0.3568627450980392,
+        "content": "01",
+        "fontName": "Baskerville",
+        "fontSize": 34,
+        "green": 0.403921568627451,
+        "leading": 0,
+        "red": 0.3411764705882353,
+        "tracking": 0
       },
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           2860,
           1780
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           150,
           70
         ]
       }
     },
     {
-      "blendMode" : "Normal",
-      "id" : "3B2A7851-E72E-4A44-AD22-657FC2B86880",
-      "imageFile" : "3B2A7851-E72E-4A44-AD22-657FC2B86880.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "Typography \/ fine rule",
-      "opacity" : 1,
-      "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
+      "blendMode": "Normal",
+      "id": "3B2A7851-E72E-4A44-AD22-657FC2B86880",
+      "imageFile": "3B2A7851-E72E-4A44-AD22-657FC2B86880.png",
+      "isGroup": false,
+      "isVisible": true,
+      "name": "Typography / fine rule",
+      "opacity": 1,
+      "parentID": "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
+      "transform": {
+        "flipX": false,
+        "flipY": false,
+        "origin": [
           260,
           1320
         ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
+        "rotation": 0,
+        "sampling": "High quality",
+        "size": [
           150,
           3
         ]
       }
     }
   ],
-  "resolution" : 144,
-  "version" : 11,
-  "width" : 3200
+  "resolution": 144,
+  "version": 11,
+  "width": 3200
 }

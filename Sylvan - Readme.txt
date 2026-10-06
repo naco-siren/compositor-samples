@@ -26,3 +26,7 @@ sylvan-approved-shape: screenshot baseline recovered from v2 backup.
 sylvan-anchored-growth: previous anchored growth revision.
 sylvan-alpha-approved: user-approved alpha before polish.
 sylvan-alpha-polished: current delivery.
+
+PENDING NATIVE REVIEW: shoulder transition and foggy forest background have been edited in the project. Warm forest is visible; cool forest is hidden. Background-only Curves and the forest layer opacity are editable. The Mac was locked before final visual review/export; the PNG exports remain the last validated alpha-polish version.
+Warm source: Forest - Foggy/pexels-eberhardgross-1612352.jpg
+Cool source: Forest - Foggy/pexels-pixabay-45222.jpg
