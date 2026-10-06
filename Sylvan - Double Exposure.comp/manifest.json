@@ -76,7 +76,7 @@
       "id" : "6ECD1ECA-C1FC-41F0-B33D-3A42F65A4C9E",
       "imageFile" : "6ECD1ECA-C1FC-41F0-B33D-3A42F65A4C9E.png",
       "isGroup" : false,
-      "isVisible" : false,
+      "isVisible" : true,
       "name" : "C O M P O S I T O R   \/   S T U D Y  0 1",
       "opacity" : 1,
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
@@ -119,7 +119,7 @@
         "alignment" : "Left",
         "blue" : 0.2,
         "content" : "DOUBLE EXPOSURE",
-        "fontName" : "Helvetica",
+        "fontName" : "Baskerville",
         "fontSize" : 70,
         "green" : 0.2627450980392157,
         "leading" : 0,
@@ -286,7 +286,7 @@
       "id" : "AB4F9C38-98C3-4B26-AD64-6AA71B25A03B",
       "imageFile" : "AB4F9C38-98C3-4B26-AD64-6AA71B25A03B.png",
       "isGroup" : false,
-      "isVisible" : false,
+      "isVisible" : true,
       "name" : "01",
       "opacity" : 1,
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
@@ -321,7 +321,7 @@
       "id" : "3B2A7851-E72E-4A44-AD22-657FC2B86880",
       "imageFile" : "3B2A7851-E72E-4A44-AD22-657FC2B86880.png",
       "isGroup" : false,
-      "isVisible" : false,
+      "isVisible" : true,
       "name" : "Typography \/ fine rule",
       "opacity" : 1,
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
@@ -1208,26 +1208,26 @@
             }
           ],
           "bands" : [
-            "Cyans",
-            {
-              "falloffEnd" : 225,
-              "falloffStart" : 135,
-              "rangeEnd" : 195,
-              "rangeStart" : 165
-            },
-            "Master",
-            {
-              "falloffEnd" : 360,
-              "falloffStart" : 0,
-              "rangeEnd" : 360,
-              "rangeStart" : 0
-            },
             "Yellows",
             {
               "falloffEnd" : 105,
               "falloffStart" : 15,
               "rangeEnd" : 75,
               "rangeStart" : 45
+            },
+            "Reds",
+            {
+              "falloffEnd" : 45,
+              "falloffStart" : 315,
+              "rangeEnd" : 15,
+              "rangeStart" : 345
+            },
+            "Cyans",
+            {
+              "falloffEnd" : 225,
+              "falloffStart" : 135,
+              "rangeEnd" : 195,
+              "rangeStart" : 165
             },
             "Greens",
             {
@@ -1243,19 +1243,19 @@
               "rangeEnd" : 255,
               "rangeStart" : 225
             },
-            "Reds",
-            {
-              "falloffEnd" : 45,
-              "falloffStart" : 315,
-              "rangeEnd" : 15,
-              "rangeStart" : 345
-            },
             "Magentas",
             {
               "falloffEnd" : 345,
               "falloffStart" : 255,
               "rangeEnd" : 315,
               "rangeStart" : 285
+            },
+            "Master",
+            {
+              "falloffEnd" : 360,
+              "falloffStart" : 0,
+              "rangeEnd" : 360,
+              "rangeStart" : 0
             }
           ],
           "colorize" : false,

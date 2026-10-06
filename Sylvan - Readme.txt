@@ -5,10 +5,10 @@ SYLVAN — App Store sample project
 The user's painted transitions, verdant grading and left-to-right landscape fade are preserved. All 15 non-text image/mask assets remain pixel-for-pixel identical to the user baseline. Subject is 18% larger; the three local adjustment-mask transforms were matched to the same scale and pivot after native group scaling left them in place.
 
 Typography is reduced to three editable lines:
-DOUBLE EXPOSURE — 70 px
+DOUBLE EXPOSURE — Baskerville, 70 px
 SYLVAN — 245 px
 A forest within. — 80 px
-The previous small copy and rule remain as hidden editable layers.
+The top-left COMPOSITOR / STUDY 01 caption, bottom-right 01 and fine rule are visible again. The paragraph and bottom-left footer remain as hidden editable layers.
 
 Group transform:
 Select the Subject folder's image thumbnail, press V, then use Scale in the top toolbar. Entering 118 applies a relative 18% enlargement; the group scale field returns to 100 after the operation. In the tested build, group scaling moved photo layers but did not move local adjustment masks; this project's masks have been synchronized manually. Unmasked global grading stays unchanged.
@@ -25,4 +25,5 @@ Sylvan - Cool Forest Poster.png — historical export from before the user's bac
 
 Git tags:
 sylvan-user-verdant-baseline — user's brushwork, grading and background before resizing
-sylvan-app-store-ready — current verified delivery
+sylvan-app-store-ready — initial large-type delivery
+sylvan-serif-details — current verified delivery
