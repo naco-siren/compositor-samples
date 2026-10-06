@@ -1,32 +1,38 @@
 SYLVAN — A forest within.
 
-Revised: alpha polish — 5% smaller canopy, 7° counterclockwise tilt, sharper trunk removal, extended cheek/jaw blend.
+Current revision: clean shoulder/neck finish + quiet foggy forest background.
 3200 × 2000 px / sRGB
 
 Open Sylvan - Double Exposure.comp in Compositor.
 The 08 · TYPOGRAPHY folder toggles the poster copy on and off.
-For a clean export, hide that folder and select a visible photo layer before using Export PNG.
+For a clean export, hide that folder and select a visible photo layer before Export PNG.
 
-The entire interior/exterior canopy uses one photograph, with identical pixels and transform for both native exposure passes. Leaf-shaped masks replace the posterior portrait outline and reveal the background through the foliage. The canopy retains anchor (2500, 240) and is 5% smaller than the accepted alpha, rotated 7° counterclockwise. The cheek/jaw transition extends toward the facial light/shadow boundary. A shorter, sharper local trunk fade removes the protrusion below the neck. The lower-left foliage retains its photographic leaf contour. A separate face-light mask preserves the facial features.
+Foreground:
+The original portrait and the continuous tree retain the accepted geometry: 5% reduction about anchor (2500, 240), 7° counterclockwise tilt. Both tree passes have identical pixels and transforms. The face/cheek/jaw transition is retained. The shoulder now keeps real cloth and skin detail, with a shorter exit into the background and a local density curve instead of the previous milky seam.
 
-Photographs used from Assets:
+Background controls:
+01c · Forest / WARM mist is visible by default.
+01b · Forest / COOL alternative is hidden; enable only one forest at a time.
+Each forest has 55% layer opacity plus a mask that quiets the typography area.
+01d · Forest light is an editable background-only Curves layer; it lifts shadows and compresses contrast.
+02c · Shoulder contour is an editable local Curves layer for skin and cloth density.
+
+Photographs from Assets:
 Portraits/pexels-memotografo-28369802.jpg
 Trees/pexels-dumitru-bumbu-742240889-29224506.jpg
+Forest - Foggy/pexels-eberhardgross-1612352.jpg (warm)
+Forest - Foggy/pexels-pixabay-45222.jpg (cool)
 
-Exports:
-Sylvan - Poster.png
-Sylvan - Clean Artwork.png
+Validated native exports:
+Sylvan - Poster.png (warm default)
+Sylvan - Clean Artwork.png (warm, without text)
+Sylvan - Cool Forest Poster.png (cool alternative)
 
-Previous versions retained in Workfiles/Sylvan-v1.comp and Workfiles/Sylvan-v2.comp.
+Git rollback tags:
+sylvan-approved-shape: recovered screenshot baseline.
+sylvan-alpha-approved: accepted alpha before polish.
+sylvan-alpha-polished: polished foreground before forests.
+sylvan-before-forest-background: baseline for this refinement.
+sylvan-forest-background: current delivery.
+
 Original Sample projects preserved.
-
-Git tags:
-sylvan-before-anchored-correction: preserved previous delivered attempt.
-sylvan-approved-shape: screenshot baseline recovered from v2 backup.
-sylvan-anchored-growth: previous anchored growth revision.
-sylvan-alpha-approved: user-approved alpha before polish.
-sylvan-alpha-polished: current delivery.
-
-PENDING NATIVE REVIEW: shoulder transition and foggy forest background have been edited in the project. Warm forest is visible; cool forest is hidden. Background-only Curves and the forest layer opacity are editable. The Mac was locked before final visual review/export; the PNG exports remain the last validated alpha-polish version.
-Warm source: Forest - Foggy/pexels-eberhardgross-1612352.jpg
-Cool source: Forest - Foggy/pexels-pixabay-45222.jpg
