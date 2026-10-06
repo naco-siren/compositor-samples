@@ -1,5 +1,5 @@
 {
-  "activeLayerID" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8",
+  "activeLayerID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
   "colorSpace" : "sRGB",
   "documentID" : "94E43D3B-60CA-442D-BCD1-9844612805C5",
   "format" : "com.compositor.project",
@@ -54,7 +54,7 @@
       "id" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
       "isGroup" : true,
       "isVisible" : true,
-      "name" : "08 · TYPOGRAPHY | toggle for clean artwork",
+      "name" : "Typography",
       "opacity" : 1,
       "transform" : {
         "flipX" : false,
@@ -76,7 +76,7 @@
       "id" : "6ECD1ECA-C1FC-41F0-B33D-3A42F65A4C9E",
       "imageFile" : "6ECD1ECA-C1FC-41F0-B33D-3A42F65A4C9E.png",
       "isGroup" : false,
-      "isVisible" : true,
+      "isVisible" : false,
       "name" : "C O M P O S I T O R   \/   S T U D Y  0 1",
       "opacity" : 1,
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
@@ -117,27 +117,27 @@
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
       "text" : {
         "alignment" : "Left",
-        "blue" : 0.2901960784313726,
+        "blue" : 0.2,
         "content" : "DOUBLE EXPOSURE",
         "fontName" : "Helvetica",
-        "fontSize" : 25,
-        "green" : 0.3568627450980392,
+        "fontSize" : 70,
+        "green" : 0.2627450980392157,
         "leading" : 0,
-        "red" : 0.27450980392156865,
+        "red" : 0.17647058823529413,
         "tracking" : 5
       },
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          260,
-          790
+          250,
+          700
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1000,
-          65
+          1120,
+          120
         ]
       }
     },
@@ -152,27 +152,27 @@
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
       "text" : {
         "alignment" : "Left",
-        "blue" : 0.2196078431372549,
+        "blue" : 0.16470588235294117,
         "content" : "SYLVAN",
         "fontName" : "Baskerville",
-        "fontSize" : 190,
-        "green" : 0.24313725490196078,
+        "fontSize" : 245,
+        "green" : 0.20392156862745098,
         "leading" : 0,
-        "red" : 0.17254901960784313,
+        "red" : 0.12156862745098039,
         "tracking" : 4
       },
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          250,
-          865
+          240,
+          830
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1100,
-          260
+          1300,
+          330
         ]
       }
     },
@@ -187,27 +187,27 @@
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
       "text" : {
         "alignment" : "Left",
-        "blue" : 0.23921568627450981,
+        "blue" : 0.1803921568627451,
         "content" : "A forest within.",
         "fontName" : "Baskerville-Italic",
-        "fontSize" : 57,
-        "green" : 0.30196078431372547,
+        "fontSize" : 80,
+        "green" : 0.24313725490196078,
         "leading" : 0,
-        "red" : 0.21568627450980393,
+        "red" : 0.14901960784313725,
         "tracking" : 0
       },
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          260,
-          1150
+          255,
+          1165
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1000,
-          120
+          1220,
+          180
         ]
       }
     },
@@ -216,7 +216,7 @@
       "id" : "2E034F8C-64E1-40A4-B414-7BC98EBC734C",
       "imageFile" : "2E034F8C-64E1-40A4-B414-7BC98EBC734C.png",
       "isGroup" : false,
-      "isVisible" : true,
+      "isVisible" : false,
       "name" : "Portraits become landscapes. \/ Light becomes memory.",
       "opacity" : 1,
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
@@ -251,7 +251,7 @@
       "id" : "2BD98759-331A-41FC-8F07-6C496AF22DFF",
       "imageFile" : "2BD98759-331A-41FC-8F07-6C496AF22DFF.png",
       "isGroup" : false,
-      "isVisible" : true,
+      "isVisible" : false,
       "name" : "PORTRAIT × NATURE     \/     2026",
       "opacity" : 1,
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
@@ -286,7 +286,7 @@
       "id" : "AB4F9C38-98C3-4B26-AD64-6AA71B25A03B",
       "imageFile" : "AB4F9C38-98C3-4B26-AD64-6AA71B25A03B.png",
       "isGroup" : false,
-      "isVisible" : true,
+      "isVisible" : false,
       "name" : "01",
       "opacity" : 1,
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
@@ -321,7 +321,7 @@
       "id" : "3B2A7851-E72E-4A44-AD22-657FC2B86880",
       "imageFile" : "3B2A7851-E72E-4A44-AD22-657FC2B86880.png",
       "isGroup" : false,
-      "isVisible" : true,
+      "isVisible" : false,
       "name" : "Typography \/ fine rule",
       "opacity" : 1,
       "parentID" : "C9F1BFC9-B09C-4A10-A007-4A47116D00A8",
@@ -346,7 +346,7 @@
       "imageFile" : "BB685F6E-686C-4C90-9CA6-D5392968BDAC.png",
       "isGroup" : false,
       "isVisible" : true,
-      "name" : "01 · Mist \/ background",
+      "name" : "Soft Background",
       "opacity" : 1,
       "parentID" : "E55FCFF8-B22B-4164-A0BD-90F1AA5DB8C3",
       "transform" : {
@@ -373,7 +373,7 @@
       "maskEnabled" : true,
       "maskFile" : "02A36175-8735-4D69-9B63-5E955D6BE985.mask.png",
       "maskLinked" : true,
-      "name" : "01b · Forest \/ COOL alternative | enable one forest",
+      "name" : "Fog Forest",
       "opacity" : 0.78,
       "parentID" : "E55FCFF8-B22B-4164-A0BD-90F1AA5DB8C3",
       "transform" : {
@@ -400,7 +400,7 @@
       "maskEnabled" : true,
       "maskFile" : "A78543E3-96D4-40CC-B2C3-6641E16E600F.mask.png",
       "maskLinked" : true,
-      "name" : "pexels-eberhardgross-4406329",
+      "name" : "Foreground Meadow",
       "opacity" : 0.9791987376847291,
       "parentID" : "E55FCFF8-B22B-4164-A0BD-90F1AA5DB8C3",
       "transform" : {
@@ -408,7 +408,7 @@
         "flipY" : false,
         "origin" : [
           -622,
-          -0
+          0
         ],
         "rotation" : 0,
         "sampling" : "High quality",
@@ -524,7 +524,7 @@
       "id" : "50B7DBF6-6BC9-4042-BF1F-37F0B157535F",
       "isGroup" : false,
       "isVisible" : true,
-      "name" : "01d · Forest light | lifted shadows \/ quiet contrast",
+      "name" : "Atmosphere",
       "opacity" : 0.65625,
       "parentID" : "E55FCFF8-B22B-4164-A0BD-90F1AA5DB8C3",
       "transform" : {
@@ -555,31 +555,31 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          1099.4313844890587,
-          0.004937754158049756
+          904.4790336970893,
+          -280.0741734500933
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          2500.080203196984,
-          2000.796837123677
+          2950.0946397724406,
+          2360.940267805939
         ]
       },
-      "name" : "02 · Portrait | clean shoulder + leaf transition",
+      "name" : "Portrait",
       "opacity" : 1,
       "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          1099.4313844890587,
-          0.004937754158049756
+          904.4790336970893,
+          -280.0741734500933
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          2500.080203196984,
-          1999.8203623373795
+          2950.0946397724406,
+          2359.788027558108
         ]
       }
     },
@@ -688,21 +688,21 @@
       "maskEnabled" : true,
       "maskFile" : "4C42F4A7-B8FD-4A56-B73A-59B3CD4501DF.mask.png",
       "maskLinked" : true,
-      "name" : "02b · Portrait light | face recovery",
+      "name" : "Face Light",
       "opacity" : 1,
       "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          0,
-          0
+          -392.8499999999999,
+          -280.0799999999999
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          3200,
-          2000
+          3776,
+          2360
         ]
       }
     },
@@ -811,21 +811,21 @@
       "maskEnabled" : true,
       "maskFile" : "C0C9A228-C824-4FE8-8F05-350A66C0916B.mask.png",
       "maskLinked" : true,
-      "name" : "02c · Shoulder contour | natural skin + cloth density",
+      "name" : "Shoulder Shadows",
       "opacity" : 1,
       "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          0,
-          0
+          -392.8499999999999,
+          -280.0799999999999
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          3200,
-          2000
+          3776,
+          2360
         ]
       }
     },
@@ -838,21 +838,21 @@
       "maskEnabled" : true,
       "maskFile" : "ABFBAC5A-CC88-4249-90DA-68B4549EF424.mask.png",
       "maskLinked" : true,
-      "name" : "03 · ONE TREE | continuous curved lower silhouette",
+      "name" : "Tree Canopy",
       "opacity" : 1,
       "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          -73.81829874154755,
-          62.81031631901169
+          -479.9555925150262,
+          -205.96382674356641
         ],
         "rotation" : -6.999155190546251,
         "sampling" : "High quality",
         "size" : [
-          4512.636597483096,
-          2986.3793673619775
+          5324.911185030053,
+          3523.9276534871333
         ]
       }
     },
@@ -865,21 +865,21 @@
       "maskEnabled" : true,
       "maskFile" : "C0446A14-9682-40FA-8DDE-1FCC5CC9716E.mask.png",
       "maskLinked" : true,
-      "name" : "04 · SAME TREE | extended cheek-to-jaw transition",
+      "name" : "Leaf Exposure",
       "opacity" : 1,
       "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          -73.81829874154755,
-          62.81031631901192
+          -479.9555925150262,
+          -205.96382674356596
         ],
         "rotation" : -6.999155190546251,
         "sampling" : "High quality",
         "size" : [
-          4512.636597483096,
-          2986.379367361977
+          5324.911185030053,
+          3523.927653487133
         ]
       }
     },
@@ -1000,21 +1000,21 @@
       "maskEnabled" : true,
       "maskFile" : "C9A0EF41-E0F8-45C8-B3B3-B5AE106AC633.mask.png",
       "maskLinked" : true,
-      "name" : "05 · Canopy tone | dense warm shadows",
+      "name" : "Canopy Tone",
       "opacity" : 1,
       "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          0,
-          0
+          -392.8499999999999,
+          -280.0799999999999
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          3200,
-          2000
+          3776,
+          2360
         ]
       }
     },
@@ -1132,7 +1132,7 @@
       "id" : "93C15125-3EA8-4C3C-B1FB-7BCC28051CF6",
       "isGroup" : false,
       "isVisible" : true,
-      "name" : "06 · Film curve | open shadows \/ soft highlights",
+      "name" : "Film Curve",
       "opacity" : 1,
       "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
       "transform" : {
@@ -1215,33 +1215,12 @@
               "rangeEnd" : 195,
               "rangeStart" : 165
             },
-            "Reds",
-            {
-              "falloffEnd" : 45,
-              "falloffStart" : 315,
-              "rangeEnd" : 15,
-              "rangeStart" : 345
-            },
             "Master",
             {
               "falloffEnd" : 360,
               "falloffStart" : 0,
               "rangeEnd" : 360,
               "rangeStart" : 0
-            },
-            "Magentas",
-            {
-              "falloffEnd" : 345,
-              "falloffStart" : 255,
-              "rangeEnd" : 315,
-              "rangeStart" : 285
-            },
-            "Greens",
-            {
-              "falloffEnd" : 165,
-              "falloffStart" : 75,
-              "rangeEnd" : 135,
-              "rangeStart" : 105
             },
             "Yellows",
             {
@@ -1250,12 +1229,33 @@
               "rangeEnd" : 75,
               "rangeStart" : 45
             },
+            "Greens",
+            {
+              "falloffEnd" : 165,
+              "falloffStart" : 75,
+              "rangeEnd" : 135,
+              "rangeStart" : 105
+            },
             "Blues",
             {
               "falloffEnd" : 285,
               "falloffStart" : 195,
               "rangeEnd" : 255,
               "rangeStart" : 225
+            },
+            "Reds",
+            {
+              "falloffEnd" : 45,
+              "falloffStart" : 315,
+              "rangeEnd" : 15,
+              "rangeStart" : 345
+            },
+            "Magentas",
+            {
+              "falloffEnd" : 345,
+              "falloffStart" : 255,
+              "rangeEnd" : 315,
+              "rangeStart" : 285
             }
           ],
           "colorize" : false,
@@ -1304,7 +1304,7 @@
       "id" : "821E186E-6FDE-4788-A7ED-BC190F3D28C8",
       "isGroup" : false,
       "isVisible" : true,
-      "name" : "07 · Palette | desaturated sage",
+      "name" : "Fresh Greens",
       "opacity" : 1,
       "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
       "transform" : {
