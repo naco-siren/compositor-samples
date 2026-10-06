@@ -217,8 +217,8 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          331,
-          -1150
+          336,
+          -1145
         ],
         "rotation" : 0,
         "sampling" : "High quality",
