@@ -7,11 +7,10 @@
   "layers" : [
     {
       "blendMode" : "Normal",
-      "id" : "BB685F6E-686C-4C90-9CA6-D5392968BDAC",
-      "imageFile" : "BB685F6E-686C-4C90-9CA6-D5392968BDAC.png",
-      "isGroup" : false,
+      "id" : "E55FCFF8-B22B-4164-A0BD-90F1AA5DB8C3",
+      "isGroup" : true,
       "isVisible" : true,
-      "name" : "01 · Mist \/ background",
+      "name" : "Background",
       "opacity" : 1,
       "transform" : {
         "flipX" : false,
@@ -30,921 +29,10 @@
     },
     {
       "blendMode" : "Normal",
-      "id" : "02A36175-8735-4D69-9B63-5E955D6BE985",
-      "imageFile" : "02A36175-8735-4D69-9B63-5E955D6BE985.png",
-      "isGroup" : false,
-      "isVisible" : false,
-      "maskEnabled" : true,
-      "maskFile" : "02A36175-8735-4D69-9B63-5E955D6BE985.mask.png",
-      "maskLinked" : true,
-      "name" : "01b · Forest \/ COOL alternative | enable one forest",
-      "opacity" : 0.78,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          0,
-          -142.2835633626098
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          3200,
-          2284.5671267252196
-        ]
-      }
-    },
-    {
-      "blendMode" : "Normal",
-      "id" : "F1CD4145-027C-4AF4-9097-F230A33DD640",
-      "imageFile" : "F1CD4145-027C-4AF4-9097-F230A33DD640.png",
-      "isGroup" : false,
+      "id" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
+      "isGroup" : true,
       "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "F1CD4145-027C-4AF4-9097-F230A33DD640.mask.png",
-      "maskLinked" : true,
-      "name" : "01c · Forest \/ WARM mist | visible mist \/ quiet typography",
-      "opacity" : 0.78,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          0,
-          -66.66666666666652
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          3200,
-          2133.333333333333
-        ]
-      }
-    },
-    {
-      "adjustment" : {
-        "colorize" : false,
-        "curves" : {
-          "channel" : "RGB",
-          "channels" : [
-            [
-              {
-                "x" : 0,
-                "y" : 70
-              },
-              {
-                "x" : 60,
-                "y" : 118
-              },
-              {
-                "x" : 128,
-                "y" : 170
-              },
-              {
-                "x" : 200,
-                "y" : 216
-              },
-              {
-                "x" : 235,
-                "y" : 235
-              },
-              {
-                "x" : 255,
-                "y" : 246
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ]
-          ]
-        },
-        "hue" : 0,
-        "kind" : "Curves",
-        "levels" : {
-          "channel" : "RGB",
-          "ranges" : [
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            }
-          ]
-        },
-        "lightness" : 0,
-        "saturation" : 0
-      },
-      "blendMode" : "Normal",
-      "id" : "50B7DBF6-6BC9-4042-BF1F-37F0B157535F",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "01d · Forest light | lifted shadows \/ quiet contrast",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          0,
-          0
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          3200,
-          2000
-        ]
-      }
-    },
-    {
-      "blendMode" : "Normal",
-      "id" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8",
-      "imageFile" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8.mask.png",
-      "maskLinked" : true,
-      "name" : "02 · Portrait | clean shoulder + leaf transition",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          1100,
-          0
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          2500,
-          2000
-        ]
-      }
-    },
-    {
-      "adjustment" : {
-        "colorize" : false,
-        "curves" : {
-          "channel" : "RGB",
-          "channels" : [
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 45,
-                "y" : 68
-              },
-              {
-                "x" : 100,
-                "y" : 139
-              },
-              {
-                "x" : 180,
-                "y" : 208
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ]
-          ]
-        },
-        "hue" : 0,
-        "kind" : "Curves",
-        "levels" : {
-          "channel" : "RGB",
-          "ranges" : [
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            }
-          ]
-        },
-        "lightness" : 0,
-        "saturation" : 0
-      },
-      "blendMode" : "Normal",
-      "id" : "4C42F4A7-B8FD-4A56-B73A-59B3CD4501DF",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "4C42F4A7-B8FD-4A56-B73A-59B3CD4501DF.mask.png",
-      "maskLinked" : true,
-      "name" : "02b · Portrait light | face recovery",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          0,
-          0
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          3200,
-          2000
-        ]
-      }
-    },
-    {
-      "adjustment" : {
-        "colorize" : false,
-        "curves" : {
-          "channel" : "RGB",
-          "channels" : [
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 80,
-                "y" : 68
-              },
-              {
-                "x" : 160,
-                "y" : 120
-              },
-              {
-                "x" : 220,
-                "y" : 161
-              },
-              {
-                "x" : 255,
-                "y" : 202
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ]
-          ]
-        },
-        "hue" : 0,
-        "kind" : "Curves",
-        "levels" : {
-          "channel" : "RGB",
-          "ranges" : [
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            }
-          ]
-        },
-        "lightness" : 0,
-        "saturation" : 0
-      },
-      "blendMode" : "Normal",
-      "id" : "C0C9A228-C824-4FE8-8F05-350A66C0916B",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "C0C9A228-C824-4FE8-8F05-350A66C0916B.mask.png",
-      "maskLinked" : true,
-      "name" : "02c · Shoulder contour | natural skin + cloth density",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          0,
-          0
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          3200,
-          2000
-        ]
-      }
-    },
-    {
-      "blendMode" : "Normal",
-      "id" : "ABFBAC5A-CC88-4249-90DA-68B4549EF424",
-      "imageFile" : "ABFBAC5A-CC88-4249-90DA-68B4549EF424.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "ABFBAC5A-CC88-4249-90DA-68B4549EF424.mask.png",
-      "maskLinked" : true,
-      "name" : "03 · ONE TREE | continuous curved lower silhouette",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          -73.21612960059747,
-          62.8137235568106
-        ],
-        "rotation" : -7,
-        "sampling" : "High quality",
-        "size" : [
-          4512.5,
-          2986.6422178020885
-        ]
-      }
-    },
-    {
-      "blendMode" : "Multiply",
-      "id" : "C0446A14-9682-40FA-8DDE-1FCC5CC9716E",
-      "imageFile" : "C0446A14-9682-40FA-8DDE-1FCC5CC9716E.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "C0446A14-9682-40FA-8DDE-1FCC5CC9716E.mask.png",
-      "maskLinked" : true,
-      "name" : "04 · SAME TREE | extended cheek-to-jaw transition",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          -73.21612960059747,
-          62.8137235568106
-        ],
-        "rotation" : -7,
-        "sampling" : "High quality",
-        "size" : [
-          4512.5,
-          2986.6422178020885
-        ]
-      }
-    },
-    {
-      "adjustment" : {
-        "colorize" : false,
-        "curves" : {
-          "channel" : "RGB",
-          "channels" : [
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 60,
-                "y" : 23
-              },
-              {
-                "x" : 128,
-                "y" : 80
-              },
-              {
-                "x" : 200,
-                "y" : 165
-              },
-              {
-                "x" : 255,
-                "y" : 245
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 4
-              },
-              {
-                "x" : 128,
-                "y" : 142
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 128,
-                "y" : 113
-              },
-              {
-                "x" : 255,
-                "y" : 246
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 128,
-                "y" : 101
-              },
-              {
-                "x" : 255,
-                "y" : 225
-              }
-            ]
-          ]
-        },
-        "hue" : 0,
-        "kind" : "Curves",
-        "levels" : {
-          "channel" : "RGB",
-          "ranges" : [
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            }
-          ]
-        },
-        "lightness" : 0,
-        "saturation" : 0
-      },
-      "blendMode" : "Normal",
-      "id" : "C9A0EF41-E0F8-45C8-B3B3-B5AE106AC633",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "C9A0EF41-E0F8-45C8-B3B3-B5AE106AC633.mask.png",
-      "maskLinked" : true,
-      "name" : "05 · Canopy tone | dense warm shadows",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          0,
-          0
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          3200,
-          2000
-        ]
-      }
-    },
-    {
-      "adjustment" : {
-        "colorize" : false,
-        "curves" : {
-          "channel" : "RGB",
-          "channels" : [
-            [
-              {
-                "x" : 0,
-                "y" : 5
-              },
-              {
-                "x" : 55,
-                "y" : 51
-              },
-              {
-                "x" : 128,
-                "y" : 134
-              },
-              {
-                "x" : 210,
-                "y" : 219
-              },
-              {
-                "x" : 255,
-                "y" : 250
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 3
-              },
-              {
-                "x" : 128,
-                "y" : 130
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 7
-              },
-              {
-                "x" : 128,
-                "y" : 131
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 9
-              },
-              {
-                "x" : 128,
-                "y" : 125
-              },
-              {
-                "x" : 255,
-                "y" : 247
-              }
-            ]
-          ]
-        },
-        "hue" : 0,
-        "kind" : "Curves",
-        "levels" : {
-          "channel" : "RGB",
-          "ranges" : [
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            }
-          ]
-        },
-        "lightness" : 0,
-        "saturation" : 0
-      },
-      "blendMode" : "Normal",
-      "id" : "93C15125-3EA8-4C3C-B1FB-7BCC28051CF6",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "06 · Film curve | open shadows \/ soft highlights",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          0,
-          0
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          3200,
-          2000
-        ]
-      }
-    },
-    {
-      "adjustment" : {
-        "colorize" : false,
-        "curves" : {
-          "channel" : "RGB",
-          "channels" : [
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ]
-          ]
-        },
-        "hsvSettings" : {
-          "adjustments" : [
-            "Master",
-            {
-              "hue" : 0,
-              "lightness" : 0,
-              "saturation" : -32
-            }
-          ],
-          "bands" : [
-            "Cyans",
-            {
-              "falloffEnd" : 225,
-              "falloffStart" : 135,
-              "rangeEnd" : 195,
-              "rangeStart" : 165
-            },
-            "Reds",
-            {
-              "falloffEnd" : 45,
-              "falloffStart" : 315,
-              "rangeEnd" : 15,
-              "rangeStart" : 345
-            },
-            "Master",
-            {
-              "falloffEnd" : 360,
-              "falloffStart" : 0,
-              "rangeEnd" : 360,
-              "rangeStart" : 0
-            },
-            "Magentas",
-            {
-              "falloffEnd" : 345,
-              "falloffStart" : 255,
-              "rangeEnd" : 315,
-              "rangeStart" : 285
-            },
-            "Greens",
-            {
-              "falloffEnd" : 165,
-              "falloffStart" : 75,
-              "rangeEnd" : 135,
-              "rangeStart" : 105
-            },
-            "Yellows",
-            {
-              "falloffEnd" : 105,
-              "falloffStart" : 15,
-              "rangeEnd" : 75,
-              "rangeStart" : 45
-            },
-            "Blues",
-            {
-              "falloffEnd" : 285,
-              "falloffStart" : 195,
-              "rangeEnd" : 255,
-              "rangeStart" : 225
-            }
-          ],
-          "colorize" : false,
-          "invertRange" : false,
-          "range" : "Master"
-        },
-        "hue" : 0,
-        "kind" : "Hue\/Saturation",
-        "levels" : {
-          "channel" : "RGB",
-          "ranges" : [
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            }
-          ]
-        },
-        "lightness" : 0,
-        "saturation" : 0
-      },
-      "blendMode" : "Normal",
-      "id" : "821E186E-6FDE-4788-A7ED-BC190F3D28C8",
-      "isGroup" : false,
-      "isVisible" : true,
-      "name" : "07 · Palette | desaturated sage",
+      "name" : "Subject",
       "opacity" : 1,
       "transform" : {
         "flipX" : false,
@@ -1249,6 +337,988 @@
         "size" : [
           150,
           3
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "BB685F6E-686C-4C90-9CA6-D5392968BDAC",
+      "imageFile" : "BB685F6E-686C-4C90-9CA6-D5392968BDAC.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "01 · Mist \/ background",
+      "opacity" : 1,
+      "parentID" : "E55FCFF8-B22B-4164-A0BD-90F1AA5DB8C3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "02A36175-8735-4D69-9B63-5E955D6BE985",
+      "imageFile" : "02A36175-8735-4D69-9B63-5E955D6BE985.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "02A36175-8735-4D69-9B63-5E955D6BE985.mask.png",
+      "maskLinked" : true,
+      "name" : "01b · Forest \/ COOL alternative | enable one forest",
+      "opacity" : 0.78,
+      "parentID" : "E55FCFF8-B22B-4164-A0BD-90F1AA5DB8C3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          -142.2835633626098
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2284.5671267252196
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "A78543E3-96D4-40CC-B2C3-6641E16E600F",
+      "imageFile" : "A78543E3-96D4-40CC-B2C3-6641E16E600F.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "A78543E3-96D4-40CC-B2C3-6641E16E600F.mask.png",
+      "maskLinked" : true,
+      "name" : "pexels-eberhardgross-4406329",
+      "opacity" : 0.9791987376847291,
+      "parentID" : "E55FCFF8-B22B-4164-A0BD-90F1AA5DB8C3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          -622,
+          -0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          4033,
+          2437
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 70
+              },
+              {
+                "x" : 60,
+                "y" : 118
+              },
+              {
+                "x" : 128,
+                "y" : 170
+              },
+              {
+                "x" : 200,
+                "y" : 216
+              },
+              {
+                "x" : 235,
+                "y" : 235
+              },
+              {
+                "x" : 255,
+                "y" : 246
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "50B7DBF6-6BC9-4042-BF1F-37F0B157535F",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "01d · Forest light | lifted shadows \/ quiet contrast",
+      "opacity" : 0.65625,
+      "parentID" : "E55FCFF8-B22B-4164-A0BD-90F1AA5DB8C3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8",
+      "imageFile" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "13AB39FE-32FC-4FB6-989F-030D200F0EE8.mask.png",
+      "maskLinked" : true,
+      "maskPlacement" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          1099.4313844890587,
+          0.004937754158049756
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          2500.080203196984,
+          2000.796837123677
+        ]
+      },
+      "name" : "02 · Portrait | clean shoulder + leaf transition",
+      "opacity" : 1,
+      "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          1099.4313844890587,
+          0.004937754158049756
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          2500.080203196984,
+          1999.8203623373795
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 45,
+                "y" : 68
+              },
+              {
+                "x" : 100,
+                "y" : 139
+              },
+              {
+                "x" : 180,
+                "y" : 208
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "4C42F4A7-B8FD-4A56-B73A-59B3CD4501DF",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "4C42F4A7-B8FD-4A56-B73A-59B3CD4501DF.mask.png",
+      "maskLinked" : true,
+      "name" : "02b · Portrait light | face recovery",
+      "opacity" : 1,
+      "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 89.97246799698796,
+                "y" : 24.706956129807708
+              },
+              {
+                "x" : 170.34103209713857,
+                "y" : 45.36823918269232
+              },
+              {
+                "x" : 231.3067700489458,
+                "y" : 133.33097956730768
+              },
+              {
+                "x" : 255,
+                "y" : 202
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "C0C9A228-C824-4FE8-8F05-350A66C0916B",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "C0C9A228-C824-4FE8-8F05-350A66C0916B.mask.png",
+      "maskLinked" : true,
+      "name" : "02c · Shoulder contour | natural skin + cloth density",
+      "opacity" : 1,
+      "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "ABFBAC5A-CC88-4249-90DA-68B4549EF424",
+      "imageFile" : "ABFBAC5A-CC88-4249-90DA-68B4549EF424.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "ABFBAC5A-CC88-4249-90DA-68B4549EF424.mask.png",
+      "maskLinked" : true,
+      "name" : "03 · ONE TREE | continuous curved lower silhouette",
+      "opacity" : 1,
+      "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          -73.81829874154755,
+          62.81031631901169
+        ],
+        "rotation" : -6.999155190546251,
+        "sampling" : "High quality",
+        "size" : [
+          4512.636597483096,
+          2986.3793673619775
+        ]
+      }
+    },
+    {
+      "blendMode" : "Multiply",
+      "id" : "C0446A14-9682-40FA-8DDE-1FCC5CC9716E",
+      "imageFile" : "C0446A14-9682-40FA-8DDE-1FCC5CC9716E.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "C0446A14-9682-40FA-8DDE-1FCC5CC9716E.mask.png",
+      "maskLinked" : true,
+      "name" : "04 · SAME TREE | extended cheek-to-jaw transition",
+      "opacity" : 1,
+      "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          -73.81829874154755,
+          62.81031631901192
+        ],
+        "rotation" : -6.999155190546251,
+        "sampling" : "High quality",
+        "size" : [
+          4512.636597483096,
+          2986.379367361977
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 60,
+                "y" : 23
+              },
+              {
+                "x" : 128,
+                "y" : 80
+              },
+              {
+                "x" : 200,
+                "y" : 165
+              },
+              {
+                "x" : 255,
+                "y" : 245
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 4
+              },
+              {
+                "x" : 128,
+                "y" : 142
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 128,
+                "y" : 113
+              },
+              {
+                "x" : 255,
+                "y" : 246
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 128,
+                "y" : 101
+              },
+              {
+                "x" : 255,
+                "y" : 225
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "C9A0EF41-E0F8-45C8-B3B3-B5AE106AC633",
+      "isGroup" : false,
+      "isVisible" : false,
+      "maskEnabled" : true,
+      "maskFile" : "C9A0EF41-E0F8-45C8-B3B3-B5AE106AC633.mask.png",
+      "maskLinked" : true,
+      "name" : "05 · Canopy tone | dense warm shadows",
+      "opacity" : 1,
+      "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 5
+              },
+              {
+                "x" : 55,
+                "y" : 51
+              },
+              {
+                "x" : 128,
+                "y" : 134
+              },
+              {
+                "x" : 210,
+                "y" : 219
+              },
+              {
+                "x" : 255,
+                "y" : 250
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 3
+              },
+              {
+                "x" : 128,
+                "y" : 130
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 7
+              },
+              {
+                "x" : 128,
+                "y" : 131
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 9
+              },
+              {
+                "x" : 128,
+                "y" : 125
+              },
+              {
+                "x" : 255,
+                "y" : 247
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "93C15125-3EA8-4C3C-B1FB-7BCC28051CF6",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "06 · Film curve | open shadows \/ soft highlights",
+      "opacity" : 1,
+      "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hsvSettings" : {
+          "adjustments" : [
+            "Master",
+            {
+              "hue" : 0,
+              "lightness" : 0,
+              "saturation" : -32
+            }
+          ],
+          "bands" : [
+            "Cyans",
+            {
+              "falloffEnd" : 225,
+              "falloffStart" : 135,
+              "rangeEnd" : 195,
+              "rangeStart" : 165
+            },
+            "Reds",
+            {
+              "falloffEnd" : 45,
+              "falloffStart" : 315,
+              "rangeEnd" : 15,
+              "rangeStart" : 345
+            },
+            "Master",
+            {
+              "falloffEnd" : 360,
+              "falloffStart" : 0,
+              "rangeEnd" : 360,
+              "rangeStart" : 0
+            },
+            "Magentas",
+            {
+              "falloffEnd" : 345,
+              "falloffStart" : 255,
+              "rangeEnd" : 315,
+              "rangeStart" : 285
+            },
+            "Greens",
+            {
+              "falloffEnd" : 165,
+              "falloffStart" : 75,
+              "rangeEnd" : 135,
+              "rangeStart" : 105
+            },
+            "Yellows",
+            {
+              "falloffEnd" : 105,
+              "falloffStart" : 15,
+              "rangeEnd" : 75,
+              "rangeStart" : 45
+            },
+            "Blues",
+            {
+              "falloffEnd" : 285,
+              "falloffStart" : 195,
+              "rangeEnd" : 255,
+              "rangeStart" : 225
+            }
+          ],
+          "colorize" : false,
+          "invertRange" : false,
+          "range" : "Master"
+        },
+        "hue" : 0,
+        "kind" : "Hue\/Saturation",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "821E186E-6FDE-4788-A7ED-BC190F3D28C8",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "07 · Palette | desaturated sage",
+      "opacity" : 1,
+      "parentID" : "888C61C4-762C-4A40-814E-94A7A0775BF3",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
         ]
       }
     }
