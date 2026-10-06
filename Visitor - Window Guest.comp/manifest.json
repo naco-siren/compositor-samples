@@ -1,5 +1,5 @@
 {
-  "activeLayerID" : "E567D44C-7AAF-5BB7-952A-36DC0E919FFD",
+  "activeLayerID" : "558D0199-24BA-5297-BF34-A66DAD9BE2F4",
   "colorSpace" : "sRGB",
   "documentID" : "9BCD5F1B-0396-5DCD-92AA-AABA56FF51B5",
   "format" : "com.compositor.project",
@@ -239,14 +239,14 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          1033,
-          -426.8971413758013
+          1031,
+          -513.5
         ],
         "rotation" : -21,
         "sampling" : "High quality",
         "size" : [
-          2928,
-          3660
+          2933,
+          3747
         ]
       }
     },
@@ -382,12 +382,12 @@
                 "y" : 0
               },
               {
-                "x" : 80,
-                "y" : 68
+                "x" : 116.92700489457832,
+                "y" : 66.17510516826925
               },
               {
-                "x" : 160,
-                "y" : 137
+                "x" : 210.66782756024097,
+                "y" : 157.49774639423077
               },
               {
                 "x" : 255,
@@ -472,7 +472,7 @@
       "maskFile" : "558D0199-24BA-5297-BF34-A66DAD9BE2F4.mask.png",
       "maskLinked" : true,
       "name" : "Visitor \/ lower-body shade",
-      "opacity" : 0.23,
+      "opacity" : 0.6951131465517242,
       "parentID" : "27A3ABFB-3C11-5999-837E-AB0A4EF26F32",
       "transform" : {
         "flipX" : false,
@@ -879,14 +879,14 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          1134,
-          -349
+          1195,
+          -308
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1306,
-          1632
+          1353,
+          1635
         ]
       }
     },
@@ -902,12 +902,12 @@
                 "y" : 3
               },
               {
-                "x" : 70,
-                "y" : 64
+                "x" : 80.11654038027108,
+                "y" : 47.475360576923094
               },
               {
-                "x" : 160,
-                "y" : 155
+                "x" : 181.1240469691265,
+                "y" : 158.70072115384616
               },
               {
                 "x" : 255,
@@ -996,8 +996,11 @@
       "id" : "4866C518-6A4A-58C4-B12C-260E94E01E52",
       "isGroup" : false,
       "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "4866C518-6A4A-58C4-B12C-260E94E01E52.mask.png",
+      "maskLinked" : true,
       "name" : "Second visitor \/ daylight match",
-      "opacity" : 0.55,
+      "opacity" : 0.7495266317733991,
       "parentID" : "A0DD7DB4-A206-4539-8BBD-FD12A91BCEE6",
       "transform" : {
         "flipX" : false,
