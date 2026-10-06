@@ -210,21 +210,21 @@
       "maskEnabled" : true,
       "maskFile" : "E567D44C-7AAF-5BB7-952A-36DC0E919FFD.mask.png",
       "maskLinked" : true,
-      "name" : "Giant bird + original branch",
+      "name" : "Red-headed visitor \/ close-up",
       "opacity" : 1,
       "parentID" : "27A3ABFB-3C11-5999-837E-AB0A4EF26F32",
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          336,
-          -1145
+          825,
+          -1740
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          4766,
-          5475
+          4176,
+          5220
         ]
       }
     },
@@ -237,29 +237,25 @@
             [
               {
                 "x" : 0,
-                "y" : 5
+                "y" : 3
               },
               {
                 "x" : 70,
-                "y" : 66
+                "y" : 68
               },
               {
                 "x" : 160,
-                "y" : 151
+                "y" : 156
               },
               {
                 "x" : 255,
-                "y" : 239
+                "y" : 250
               }
             ],
             [
               {
                 "x" : 0,
                 "y" : 0
-              },
-              {
-                "x" : 128,
-                "y" : 128
               },
               {
                 "x" : 255,
@@ -272,10 +268,6 @@
                 "y" : 0
               },
               {
-                "x" : 128,
-                "y" : 128
-              },
-              {
                 "x" : 255,
                 "y" : 255
               }
@@ -283,11 +275,11 @@
             [
               {
                 "x" : 0,
-                "y" : 4
+                "y" : 3
               },
               {
                 "x" : 128,
-                "y" : 139
+                "y" : 132
               },
               {
                 "x" : 255,
@@ -339,7 +331,7 @@
       "isGroup" : false,
       "isVisible" : true,
       "name" : "Visitor \/ daylight match",
-      "opacity" : 0.7,
+      "opacity" : 0.65,
       "parentID" : "27A3ABFB-3C11-5999-837E-AB0A4EF26F32",
       "transform" : {
         "flipX" : false,
@@ -458,7 +450,7 @@
       "maskFile" : "558D0199-24BA-5297-BF34-A66DAD9BE2F4.mask.png",
       "maskLinked" : true,
       "name" : "Visitor \/ lower-body shade",
-      "opacity" : 0.38,
+      "opacity" : 0.23,
       "parentID" : "27A3ABFB-3C11-5999-837E-AB0A4EF26F32",
       "transform" : {
         "flipX" : false,

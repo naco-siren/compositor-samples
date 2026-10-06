@@ -38,3 +38,6 @@ Workfiles/Sylvan-v1.comp/*
 !Workfiles/render_visitor_preview.py
 !Workfiles/extract_visitor.swift
 !Workfiles/visitor-bird-vision.mask.png
+!Workfiles/replace_visitor_bird.py
+!Workfiles/visitor-red-bird-vision.mask.png
+!Workfiles/visitor-user-enlarged-reference.jpg
