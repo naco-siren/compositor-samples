@@ -29,6 +29,28 @@
     },
     {
       "blendMode" : "Normal",
+      "id" : "A0DD7DB4-A206-4539-8BBD-FD12A91BCEE6",
+      "isGroup" : true,
+      "isVisible" : true,
+      "name" : "Visitor 2",
+      "opacity" : 1,
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
       "id" : "BA7E6EF5-827A-54EC-A100-574726F6A825",
       "imageFile" : "BA7E6EF5-827A-54EC-A100-574726F6A825.png",
       "isGroup" : false,
@@ -184,7 +206,7 @@
       "id" : "27A3ABFB-3C11-5999-837E-AB0A4EF26F32",
       "isGroup" : true,
       "isVisible" : true,
-      "name" : "Visitor",
+      "name" : "Visitor 1",
       "opacity" : 1,
       "transform" : {
         "flipX" : false,
@@ -217,14 +239,14 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          825,
-          -1740
+          1033,
+          -426.8971413758013
         ],
-        "rotation" : 0,
+        "rotation" : -21,
         "sampling" : "High quality",
         "size" : [
-          4176,
-          5220
+          2928,
+          3660
         ]
       }
     },
@@ -240,12 +262,12 @@
                 "y" : 3
               },
               {
-                "x" : 70,
-                "y" : 68
+                "x" : 96.5550875376506,
+                "y" : 57.22941706730768
               },
               {
-                "x" : 160,
-                "y" : 156
+                "x" : 212.21597326807228,
+                "y" : 181.69899338942307
               },
               {
                 "x" : 255,
@@ -331,7 +353,7 @@
       "isGroup" : false,
       "isVisible" : true,
       "name" : "Visitor \/ daylight match",
-      "opacity" : 0.65,
+      "opacity" : 0.35885929802955674,
       "parentID" : "27A3ABFB-3C11-5999-837E-AB0A4EF26F32",
       "transform" : {
         "flipX" : false,
@@ -707,13 +729,13 @@
       "imageFile" : "758628EB-7943-5402-A32B-FC8848A0A0E3.png",
       "isGroup" : false,
       "isVisible" : true,
-      "name" : "A VISITOR",
+      "name" : "VISITORS",
       "opacity" : 1,
       "parentID" : "4D24E42B-CC94-53F6-8A67-9C49D9A4AB65",
       "text" : {
         "alignment" : "Left",
         "blue" : 0.807843137254902,
-        "content" : "A VISITOR",
+        "content" : "VISITORS",
         "fontName" : "Baskerville",
         "fontSize" : 140,
         "green" : 0.9098039215686274,
@@ -731,8 +753,8 @@
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1150,
-          190
+          708,
+          192
         ]
       }
     },
@@ -783,7 +805,7 @@
       "text" : {
         "alignment" : "Left",
         "blue" : 0.6509803921568628,
-        "content" : "An unexpected guest.",
+        "content" : "An unexpected party.",
         "fontName" : "Baskerville-Italic",
         "fontSize" : 46,
         "green" : 0.7176470588235294,
@@ -801,8 +823,8 @@
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1050,
-          95
+          353,
+          80
         ]
       }
     },
@@ -838,6 +860,30 @@
         "size" : [
           1050,
           70
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "24F4CE76-94ED-499D-A60C-D5D49E98138E",
+      "imageFile" : "24F4CE76-94ED-499D-A60C-D5D49E98138E.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "pexels-enrique-hidalgo-1230661389-37331347",
+      "opacity" : 1,
+      "parentID" : "A0DD7DB4-A206-4539-8BBD-FD12A91BCEE6",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          1134,
+          -349
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          1306,
+          1632
         ]
       }
     }
