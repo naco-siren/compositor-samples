@@ -694,32 +694,32 @@
       "imageFile" : "AAE56E38-52EA-5940-84DE-0E6161C0D3DC.png",
       "isGroup" : false,
       "isVisible" : true,
-      "name" : "COMPOSITOR \/ STUDY 02",
+      "name" : "C O M P O S I T O R   \/   S T U D Y  0 3",
       "opacity" : 1,
       "parentID" : "4D24E42B-CC94-53F6-8A67-9C49D9A4AB65",
       "text" : {
         "alignment" : "Left",
         "blue" : 0.6666666666666666,
-        "content" : "COMPOSITOR \/ STUDY 02",
+        "content" : "C O M P O S I T O R   \/   S T U D Y  0 3",
         "fontName" : "Helvetica",
-        "fontSize" : 29,
+        "fontSize" : 36,
         "green" : 0.7137254901960784,
         "leading" : 0,
         "red" : 0.7058823529411765,
-        "tracking" : 5
+        "tracking" : 0
       },
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          145,
-          150
+          232,
+          159
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          950,
-          65
+          666,
+          68
         ]
       }
     },
@@ -741,20 +741,20 @@
         "green" : 0.9098039215686274,
         "leading" : 0,
         "red" : 0.9254901960784314,
-        "tracking" : 1
+        "tracking" : 4
       },
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          135,
-          735
+          232,
+          580
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          708,
-          192
+          752,
+          215
         ]
       }
     },
@@ -772,24 +772,24 @@
         "blue" : 0.796078431372549,
         "content" : "AT THE WINDOW",
         "fontName" : "Baskerville",
-        "fontSize" : 64,
+        "fontSize" : 70,
         "green" : 0.8705882352941177,
         "leading" : 0,
         "red" : 0.8784313725490196,
-        "tracking" : 2
+        "tracking" : 5
       },
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          145,
-          934
+          240,
+          820
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1100,
-          100
+          730,
+          120
         ]
       }
     },
@@ -799,7 +799,7 @@
       "imageFile" : "FED59241-28A2-5D99-823E-B2F55653A18E.png",
       "isGroup" : false,
       "isVisible" : true,
-      "name" : "An unexpected guest.",
+      "name" : "An unexpected party.",
       "opacity" : 1,
       "parentID" : "4D24E42B-CC94-53F6-8A67-9C49D9A4AB65",
       "text" : {
@@ -807,7 +807,7 @@
         "blue" : 0.6509803921568628,
         "content" : "An unexpected party.",
         "fontName" : "Baskerville-Italic",
-        "fontSize" : 46,
+        "fontSize" : 96,
         "green" : 0.7176470588235294,
         "leading" : 0,
         "red" : 0.6941176470588235,
@@ -817,14 +817,14 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          145,
-          1090
+          232,
+          1149
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          353,
-          80
+          720,
+          140
         ]
       }
     },
@@ -834,32 +834,32 @@
       "imageFile" : "EF2A5018-6A92-5A75-B71E-2731D6A4E107.png",
       "isGroup" : false,
       "isVisible" : true,
-      "name" : "PHOTO COMPOSITE \/ 2026",
+      "name" : "PHOTO COMPOSITE     \/     2026",
       "opacity" : 1,
       "parentID" : "4D24E42B-CC94-53F6-8A67-9C49D9A4AB65",
       "text" : {
         "alignment" : "Left",
         "blue" : 0.6431372549019608,
-        "content" : "PHOTO COMPOSITE \/ 2026",
+        "content" : "PHOTO COMPOSITE     \/     2026",
         "fontName" : "Helvetica",
-        "fontSize" : 26,
+        "fontSize" : 36,
         "green" : 0.7058823529411765,
         "leading" : 0,
         "red" : 0.6980392156862745,
-        "tracking" : 3
+        "tracking" : 2
       },
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          145,
-          1810
+          232,
+          1784
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1050,
-          70
+          720,
+          68
         ]
       }
     },
@@ -1014,6 +1014,41 @@
         "size" : [
           3200,
           2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "28C4F13D-89F6-546B-A39E-3DB39B4D6FC7",
+      "imageFile" : "28C4F13D-89F6-546B-A39E-3DB39B4D6FC7.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "03",
+      "opacity" : 1,
+      "parentID" : "4D24E42B-CC94-53F6-8A67-9C49D9A4AB65",
+      "text" : {
+        "alignment" : "Left",
+        "blue" : 0.6431372549019608,
+        "content" : "03",
+        "fontName" : "Baskerville",
+        "fontSize" : 36,
+        "green" : 0.7058823529411765,
+        "leading" : 0,
+        "red" : 0.6980392156862745,
+        "tracking" : 0
+      },
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          2860,
+          1784
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          64,
+          68
         ]
       }
     }
