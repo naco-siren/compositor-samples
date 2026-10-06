@@ -869,7 +869,10 @@
       "imageFile" : "24F4CE76-94ED-499D-A60C-D5D49E98138E.png",
       "isGroup" : false,
       "isVisible" : true,
-      "name" : "pexels-enrique-hidalgo-1230661389-37331347",
+      "maskEnabled" : true,
+      "maskFile" : "24F4CE76-94ED-499D-A60C-D5D49E98138E.mask.png",
+      "maskLinked" : true,
+      "name" : "Second visitor \/ bird + original perch",
       "opacity" : 1,
       "parentID" : "A0DD7DB4-A206-4539-8BBD-FD12A91BCEE6",
       "transform" : {
@@ -884,6 +887,130 @@
         "size" : [
           1306,
           1632
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 3
+              },
+              {
+                "x" : 70,
+                "y" : 64
+              },
+              {
+                "x" : 160,
+                "y" : 155
+              },
+              {
+                "x" : 255,
+                "y" : 248
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 128,
+                "y" : 127
+              },
+              {
+                "x" : 255,
+                "y" : 253
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 4
+              },
+              {
+                "x" : 128,
+                "y" : 135
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "4866C518-6A4A-58C4-B12C-260E94E01E52",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "Second visitor \/ daylight match",
+      "opacity" : 0.55,
+      "parentID" : "A0DD7DB4-A206-4539-8BBD-FD12A91BCEE6",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
         ]
       }
     }
