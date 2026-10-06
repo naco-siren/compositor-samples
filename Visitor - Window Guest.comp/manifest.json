@@ -217,14 +217,14 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          1000,
-          -550
+          331,
+          -1150
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          2741,
-          3426
+          4766,
+          5475
         ]
       }
     },
