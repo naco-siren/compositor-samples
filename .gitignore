@@ -27,12 +27,8 @@ Workfiles/Sylvan-v1.comp/*
 !Sylvan - Double Exposure.jpg
 !Sylvan - App Store Sample.png
 !Workfiles/app_store_layout.py
-!Visitor - Window Guest.comp/
-!Visitor - Window Guest.comp/**
-!Visitor - Window Guest.png
-!Visitor - Clean Artwork.png
-!Visitor - Window Guest.zip
-!Visitor - Readme.txt
+!Visitor*.comp/
+!Visitor*.comp/**
 !Workfiles/build_visitor.py
 !Workfiles/refine_visitor_mask.py
 !Workfiles/render_visitor_preview.py
@@ -41,3 +37,8 @@ Workfiles/Sylvan-v1.comp/*
 !Workfiles/replace_visitor_bird.py
 !Workfiles/visitor-red-bird-vision.mask.png
 !Workfiles/visitor-user-enlarged-reference.jpg
+
+!Visitor*.png
+!Visitor*.jpg
+!Visitor*.zip
+!Visitor*Readme.txt
