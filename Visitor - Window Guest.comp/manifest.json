@@ -1,0 +1,737 @@
+{
+  "format": "com.compositor.project",
+  "version": 11,
+  "colorSpace": "sRGB",
+  "documentID": "9BCD5F1B-0396-5DCD-92AA-AABA56FF51B5",
+  "width": 3200,
+  "height": 2000,
+  "resolution": 144,
+  "activeLayerID": "E567D44C-7AAF-5BB7-952A-36DC0E919FFD",
+  "layers": [
+    {
+      "id": "5BBA3209-74AF-5B5B-8F09-0BC320A85BD3",
+      "name": "Outside",
+      "isVisible": true,
+      "isGroup": true,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          0,
+          0
+        ],
+        "size": [
+          3200,
+          2000
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      }
+    },
+    {
+      "id": "BA7E6EF5-827A-54EC-A100-574726F6A825",
+      "name": "Old town / original exterior",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          -780,
+          -830
+        ],
+        "size": [
+          4000,
+          3000
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      },
+      "parentID": "5BBA3209-74AF-5B5B-8F09-0BC320A85BD3",
+      "imageFile": "BA7E6EF5-827A-54EC-A100-574726F6A825.png"
+    },
+    {
+      "id": "2D2F8F1B-6DD3-5301-BCC6-4F7EA6EBB360",
+      "name": "Exterior / cool daylight",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 0.65,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          0,
+          0
+        ],
+        "size": [
+          3200,
+          2000
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      },
+      "parentID": "5BBA3209-74AF-5B5B-8F09-0BC320A85BD3",
+      "adjustment": {
+        "kind": "Curves",
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 0,
+        "colorize": false,
+        "levels": {
+          "channel": "RGB",
+          "ranges": [
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            }
+          ]
+        },
+        "curves": {
+          "channel": "RGB",
+          "channels": [
+            [
+              {
+                "x": 0,
+                "y": 5
+              },
+              {
+                "x": 70,
+                "y": 68
+              },
+              {
+                "x": 160,
+                "y": 165
+              },
+              {
+                "x": 255,
+                "y": 250
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 128,
+                "y": 126
+              },
+              {
+                "x": 255,
+                "y": 251
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 1
+              },
+              {
+                "x": 128,
+                "y": 130
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 5
+              },
+              {
+                "x": 128,
+                "y": 136
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "27A3ABFB-3C11-5999-837E-AB0A4EF26F32",
+      "name": "Visitor",
+      "isVisible": true,
+      "isGroup": true,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          0,
+          0
+        ],
+        "size": [
+          3200,
+          2000
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      }
+    },
+    {
+      "id": "E567D44C-7AAF-5BB7-952A-36DC0E919FFD",
+      "name": "Giant bird + original branch",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          1000,
+          -550
+        ],
+        "size": [
+          2741,
+          3426
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      },
+      "parentID": "27A3ABFB-3C11-5999-837E-AB0A4EF26F32",
+      "imageFile": "E567D44C-7AAF-5BB7-952A-36DC0E919FFD.png",
+      "maskFile": "E567D44C-7AAF-5BB7-952A-36DC0E919FFD.mask.png",
+      "maskEnabled": true,
+      "maskLinked": true
+    },
+    {
+      "id": "BFE860AD-72E6-5218-9862-763C6B55C0A4",
+      "name": "Visitor / daylight match",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 0.7,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          0,
+          0
+        ],
+        "size": [
+          3200,
+          2000
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      },
+      "parentID": "27A3ABFB-3C11-5999-837E-AB0A4EF26F32",
+      "adjustment": {
+        "kind": "Curves",
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 0,
+        "colorize": false,
+        "levels": {
+          "channel": "RGB",
+          "ranges": [
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            }
+          ]
+        },
+        "curves": {
+          "channel": "RGB",
+          "channels": [
+            [
+              {
+                "x": 0,
+                "y": 5
+              },
+              {
+                "x": 70,
+                "y": 66
+              },
+              {
+                "x": 160,
+                "y": 151
+              },
+              {
+                "x": 255,
+                "y": 239
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 128,
+                "y": 128
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 128,
+                "y": 128
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 4
+              },
+              {
+                "x": 128,
+                "y": 139
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "136AC13D-057E-5280-A2BB-A98E6CA149D2",
+      "name": "Window",
+      "isVisible": true,
+      "isGroup": true,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          0,
+          0
+        ],
+        "size": [
+          3200,
+          2000
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      }
+    },
+    {
+      "id": "FFB78ADD-C560-57AE-A6AA-4345EBBC0A2A",
+      "name": "Open window / foreground occlusion",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          -780,
+          -830
+        ],
+        "size": [
+          4000,
+          3000
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      },
+      "parentID": "136AC13D-057E-5280-A2BB-A98E6CA149D2",
+      "imageFile": "FFB78ADD-C560-57AE-A6AA-4345EBBC0A2A.png",
+      "maskFile": "FFB78ADD-C560-57AE-A6AA-4345EBBC0A2A.mask.png",
+      "maskEnabled": true,
+      "maskLinked": true
+    },
+    {
+      "id": "48F293AD-7F55-5A5A-AD94-FA357E32E937",
+      "name": "Room / lifted charcoal",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 0.5,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          0,
+          0
+        ],
+        "size": [
+          3200,
+          2000
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      },
+      "parentID": "136AC13D-057E-5280-A2BB-A98E6CA149D2",
+      "adjustment": {
+        "kind": "Curves",
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 0,
+        "colorize": false,
+        "levels": {
+          "channel": "RGB",
+          "ranges": [
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            },
+            {
+              "black": 0,
+              "gamma": 1,
+              "white": 255,
+              "outputBlack": 0,
+              "outputWhite": 255
+            }
+          ]
+        },
+        "curves": {
+          "channel": "RGB",
+          "channels": [
+            [
+              {
+                "x": 0,
+                "y": 6
+              },
+              {
+                "x": 60,
+                "y": 59
+              },
+              {
+                "x": 128,
+                "y": 131
+              },
+              {
+                "x": 255,
+                "y": 253
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 128,
+                "y": 132
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 128,
+                "y": 131
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            [
+              {
+                "x": 0,
+                "y": 1
+              },
+              {
+                "x": 128,
+                "y": 124
+              },
+              {
+                "x": 255,
+                "y": 250
+              }
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "4D24E42B-CC94-53F6-8A67-9C49D9A4AB65",
+      "name": "Typography",
+      "isVisible": true,
+      "isGroup": true,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          0,
+          0
+        ],
+        "size": [
+          3200,
+          2000
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      }
+    },
+    {
+      "id": "AAE56E38-52EA-5940-84DE-0E6161C0D3DC",
+      "name": "COMPOSITOR / STUDY 02",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          145,
+          150
+        ],
+        "size": [
+          950,
+          65
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      },
+      "parentID": "4D24E42B-CC94-53F6-8A67-9C49D9A4AB65",
+      "text": {
+        "content": "COMPOSITOR / STUDY 02",
+        "fontName": "Helvetica",
+        "fontSize": 29,
+        "red": 0.7058823529411765,
+        "green": 0.7137254901960784,
+        "blue": 0.6666666666666666,
+        "alignment": "Left",
+        "tracking": 5,
+        "leading": 0
+      },
+      "imageFile": "AAE56E38-52EA-5940-84DE-0E6161C0D3DC.png"
+    },
+    {
+      "id": "758628EB-7943-5402-A32B-FC8848A0A0E3",
+      "name": "A VISITOR",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          135,
+          735
+        ],
+        "size": [
+          1150,
+          190
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      },
+      "parentID": "4D24E42B-CC94-53F6-8A67-9C49D9A4AB65",
+      "text": {
+        "content": "A VISITOR",
+        "fontName": "Baskerville",
+        "fontSize": 140,
+        "red": 0.9254901960784314,
+        "green": 0.9098039215686274,
+        "blue": 0.807843137254902,
+        "alignment": "Left",
+        "tracking": 1,
+        "leading": 0
+      },
+      "imageFile": "758628EB-7943-5402-A32B-FC8848A0A0E3.png"
+    },
+    {
+      "id": "46A41372-3769-5E9C-AA22-93D298694058",
+      "name": "AT THE WINDOW",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          145,
+          934
+        ],
+        "size": [
+          1100,
+          100
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      },
+      "parentID": "4D24E42B-CC94-53F6-8A67-9C49D9A4AB65",
+      "text": {
+        "content": "AT THE WINDOW",
+        "fontName": "Baskerville",
+        "fontSize": 64,
+        "red": 0.8784313725490196,
+        "green": 0.8705882352941177,
+        "blue": 0.796078431372549,
+        "alignment": "Left",
+        "tracking": 2,
+        "leading": 0
+      },
+      "imageFile": "46A41372-3769-5E9C-AA22-93D298694058.png"
+    },
+    {
+      "id": "FED59241-28A2-5D99-823E-B2F55653A18E",
+      "name": "An unexpected guest.",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          145,
+          1090
+        ],
+        "size": [
+          1050,
+          95
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      },
+      "parentID": "4D24E42B-CC94-53F6-8A67-9C49D9A4AB65",
+      "text": {
+        "content": "An unexpected guest.",
+        "fontName": "Baskerville-Italic",
+        "fontSize": 46,
+        "red": 0.6941176470588235,
+        "green": 0.7176470588235294,
+        "blue": 0.6509803921568628,
+        "alignment": "Left",
+        "tracking": 0,
+        "leading": 0
+      },
+      "imageFile": "FED59241-28A2-5D99-823E-B2F55653A18E.png"
+    },
+    {
+      "id": "EF2A5018-6A92-5A75-B71E-2731D6A4E107",
+      "name": "PHOTO COMPOSITE / 2026",
+      "isVisible": true,
+      "isGroup": false,
+      "opacity": 1,
+      "blendMode": "Normal",
+      "transform": {
+        "origin": [
+          145,
+          1810
+        ],
+        "size": [
+          1050,
+          70
+        ],
+        "rotation": 0,
+        "flipX": false,
+        "flipY": false,
+        "sampling": "High quality"
+      },
+      "parentID": "4D24E42B-CC94-53F6-8A67-9C49D9A4AB65",
+      "text": {
+        "content": "PHOTO COMPOSITE / 2026",
+        "fontName": "Helvetica",
+        "fontSize": 26,
+        "red": 0.6980392156862745,
+        "green": 0.7058823529411765,
+        "blue": 0.6431372549019608,
+        "alignment": "Left",
+        "tracking": 3,
+        "leading": 0
+      },
+      "imageFile": "EF2A5018-6A92-5A75-B71E-2731D6A4E107.png"
+    }
+  ]
+}
