@@ -1,13 +1,13 @@
 SYLVAN — A forest within.
 
-Revised: return to approved silhouette and grow the canopy from its upper-right anchor.
+Revised: alpha polish — 5% smaller canopy, 7° counterclockwise tilt, sharper trunk removal, extended cheek/jaw blend.
 3200 × 2000 px / sRGB
 
 Open Sylvan - Double Exposure.comp in Compositor.
 The 08 · TYPOGRAPHY folder toggles the poster copy on and off.
 For a clean export, hide that folder and select a visible photo layer before using Export PNG.
 
-The entire interior/exterior canopy uses one photograph, with identical pixels and transform for both native exposure passes. Leaf-shaped masks replace the posterior portrait outline and reveal the background through the foliage. The canopy is 25% larger about the fixed upper-right anchor (2500, 240), extending left and down. The face transition lies between the preceding two versions and follows the cheek/jaw direction. The lower-left foliage retains its photographic leaf contour; only the sparse trunk region receives a local fade. A separate face-light mask preserves the facial features.
+The entire interior/exterior canopy uses one photograph, with identical pixels and transform for both native exposure passes. Leaf-shaped masks replace the posterior portrait outline and reveal the background through the foliage. The canopy retains anchor (2500, 240) and is 5% smaller than the accepted alpha, rotated 7° counterclockwise. The cheek/jaw transition extends toward the facial light/shadow boundary. A shorter, sharper local trunk fade removes the protrusion below the neck. The lower-left foliage retains its photographic leaf contour. A separate face-light mask preserves the facial features.
 
 Photographs used from Assets:
 Portraits/pexels-memotografo-28369802.jpg
@@ -23,4 +23,6 @@ Original Sample projects preserved.
 Git tags:
 sylvan-before-anchored-correction: preserved previous delivered attempt.
 sylvan-approved-shape: screenshot baseline recovered from v2 backup.
-sylvan-anchored-growth: current delivery.
+sylvan-anchored-growth: previous anchored growth revision.
+sylvan-alpha-approved: user-approved alpha before polish.
+sylvan-alpha-polished: current delivery.

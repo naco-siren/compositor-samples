@@ -17,3 +17,4 @@ Workfiles/*
 !Workfiles/Sylvan-v1.comp/
 Workfiles/Sylvan-v1.comp/*
 !Workfiles/Sylvan-v1.comp/manifest.json
+!Workfiles/polish_alpha.py

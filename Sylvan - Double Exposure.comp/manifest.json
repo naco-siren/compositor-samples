@@ -153,11 +153,11 @@
         "saturation" : 0
       },
       "blendMode" : "Normal",
-      "id" : "810C4451-C9A1-4E7E-A5F2-5E4084628FBD",
+      "id" : "713C04CE-C34E-4B85-958C-6B1D5CCB42D0",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "810C4451-C9A1-4E7E-A5F2-5E4084628FBD.mask.png",
+      "maskFile" : "713C04CE-C34E-4B85-958C-6B1D5CCB42D0.mask.png",
       "maskLinked" : true,
       "name" : "02b · Portrait light | face recovery",
       "opacity" : 1,
@@ -178,53 +178,53 @@
     },
     {
       "blendMode" : "Normal",
-      "id" : "F0195F77-BE79-497D-9DFF-1F8C7EE60C3E",
-      "imageFile" : "F0195F77-BE79-497D-9DFF-1F8C7EE60C3E.png",
+      "id" : "1D100974-7CC0-44B5-AFDA-037281B12401",
+      "imageFile" : "1D100974-7CC0-44B5-AFDA-037281B12401.png",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "F0195F77-BE79-497D-9DFF-1F8C7EE60C3E.mask.png",
+      "maskFile" : "1D100974-7CC0-44B5-AFDA-037281B12401.mask.png",
       "maskLinked" : true,
-      "name" : "03 · ONE TREE | grow from upper-right anchor",
+      "name" : "03 · ONE TREE | alpha polish \/ -7° tilt",
       "opacity" : 1,
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          -375,
-          2.5
+          -73.21612960059747,
+          62.8137235568106
         ],
-        "rotation" : 0,
+        "rotation" : -7,
         "sampling" : "High quality",
         "size" : [
-          4750,
-          3143.8339134758826
+          4512.5,
+          2986.6422178020885
         ]
       }
     },
     {
       "blendMode" : "Multiply",
-      "id" : "F740ED29-E945-4963-ADE1-FE38E9DF31BC",
-      "imageFile" : "F740ED29-E945-4963-ADE1-FE38E9DF31BC.png",
+      "id" : "265CF152-0DC3-4C9C-BE75-78E044C4CF9A",
+      "imageFile" : "265CF152-0DC3-4C9C-BE75-78E044C4CF9A.png",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "F740ED29-E945-4963-ADE1-FE38E9DF31BC.mask.png",
+      "maskFile" : "265CF152-0DC3-4C9C-BE75-78E044C4CF9A.mask.png",
       "maskLinked" : true,
-      "name" : "04 · SAME TREE | cheek-to-jaw transition",
+      "name" : "04 · SAME TREE | extended cheek-to-jaw transition",
       "opacity" : 1,
       "transform" : {
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          -375,
-          2.5
+          -73.21612960059747,
+          62.8137235568106
         ],
-        "rotation" : 0,
+        "rotation" : -7,
         "sampling" : "High quality",
         "size" : [
-          4750,
-          3143.8339134758826
+          4512.5,
+          2986.6422178020885
         ]
       }
     },
@@ -339,11 +339,11 @@
         "saturation" : 0
       },
       "blendMode" : "Normal",
-      "id" : "273DFF67-EE0B-4297-986D-4084CBE85985",
+      "id" : "3A684B41-3601-4A09-9A33-71F05D23261B",
       "isGroup" : false,
       "isVisible" : true,
       "maskEnabled" : true,
-      "maskFile" : "273DFF67-EE0B-4297-986D-4084CBE85985.mask.png",
+      "maskFile" : "3A684B41-3601-4A09-9A33-71F05D23261B.mask.png",
       "maskLinked" : true,
       "name" : "05 · Canopy tone | dense warm shadows",
       "opacity" : 1,
@@ -551,13 +551,6 @@
             }
           ],
           "bands" : [
-            "Blues",
-            {
-              "falloffEnd" : 285,
-              "falloffStart" : 195,
-              "rangeEnd" : 255,
-              "rangeStart" : 225
-            },
             "Cyans",
             {
               "falloffEnd" : 225,
@@ -565,26 +558,19 @@
               "rangeEnd" : 195,
               "rangeStart" : 165
             },
-            "Magentas",
+            "Blues",
             {
-              "falloffEnd" : 345,
-              "falloffStart" : 255,
-              "rangeEnd" : 315,
-              "rangeStart" : 285
+              "falloffEnd" : 285,
+              "falloffStart" : 195,
+              "rangeEnd" : 255,
+              "rangeStart" : 225
             },
-            "Greens",
+            "Reds",
             {
-              "falloffEnd" : 165,
-              "falloffStart" : 75,
-              "rangeEnd" : 135,
-              "rangeStart" : 105
-            },
-            "Yellows",
-            {
-              "falloffEnd" : 105,
-              "falloffStart" : 15,
-              "rangeEnd" : 75,
-              "rangeStart" : 45
+              "falloffEnd" : 45,
+              "falloffStart" : 315,
+              "rangeEnd" : 15,
+              "rangeStart" : 345
             },
             "Master",
             {
@@ -593,12 +579,26 @@
               "rangeEnd" : 360,
               "rangeStart" : 0
             },
-            "Reds",
+            "Yellows",
             {
-              "falloffEnd" : 45,
-              "falloffStart" : 315,
-              "rangeEnd" : 15,
-              "rangeStart" : 345
+              "falloffEnd" : 105,
+              "falloffStart" : 15,
+              "rangeEnd" : 75,
+              "rangeStart" : 45
+            },
+            "Greens",
+            {
+              "falloffEnd" : 165,
+              "falloffStart" : 75,
+              "rangeEnd" : 135,
+              "rangeStart" : 105
+            },
+            "Magentas",
+            {
+              "falloffEnd" : 345,
+              "falloffStart" : 255,
+              "rangeEnd" : 315,
+              "rangeStart" : 285
             }
           ],
           "colorize" : false,
