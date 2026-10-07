@@ -1,5 +1,5 @@
 {
-  "activeLayerID" : "17953E89-6E17-40BE-98E0-8ED99294C7E4",
+  "activeLayerID" : "BA97F60A-9004-4F6F-99D8-4D1D7F45F6F4",
   "colorSpace" : "sRGB",
   "documentID" : "F299F4AD-BEF0-51F4-8BBC-7C6562A987C0",
   "format" : "com.compositor.project",
@@ -142,6 +142,13 @@
             }
           ],
           "bands" : [
+            "Master",
+            {
+              "falloffEnd" : 360,
+              "falloffStart" : 0,
+              "rangeEnd" : 360,
+              "rangeStart" : 0
+            },
             "Magentas",
             {
               "falloffEnd" : 345,
@@ -156,13 +163,6 @@
               "rangeEnd" : 255,
               "rangeStart" : 225
             },
-            "Cyans",
-            {
-              "falloffEnd" : 225,
-              "falloffStart" : 135,
-              "rangeEnd" : 195,
-              "rangeStart" : 165
-            },
             "Yellows",
             {
               "falloffEnd" : 105,
@@ -170,12 +170,12 @@
               "rangeEnd" : 75,
               "rangeStart" : 45
             },
-            "Master",
+            "Cyans",
             {
-              "falloffEnd" : 360,
-              "falloffStart" : 0,
-              "rangeEnd" : 360,
-              "rangeStart" : 0
+              "falloffEnd" : 225,
+              "falloffStart" : 135,
+              "rangeEnd" : 195,
+              "rangeStart" : 165
             },
             "Greens",
             {
@@ -856,6 +856,568 @@
     },
     {
       "blendMode" : "Normal",
+      "id" : "9B779AA3-37B2-4899-90C4-C52C540F94DB",
+      "isGroup" : true,
+      "isVisible" : true,
+      "name" : "Background A — Amber rooftops",
+      "opacity" : 1,
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "BA97F60A-9004-4F6F-99D8-4D1D7F45F6F4",
+      "imageFile" : "BA97F60A-9004-4F6F-99D8-4D1D7F45F6F4.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "BA97F60A-9004-4F6F-99D8-4D1D7F45F6F4.mask.png",
+      "maskLinked" : true,
+      "name" : "Background A — Amber rooftops \/ photograph \/ quiet footer",
+      "opacity" : 0.85,
+      "parentID" : "9B779AA3-37B2-4899-90C4-C52C540F94DB",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          -420,
+          -1100
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          2850,
+          3562.5
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Hue\/Saturation",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : -42
+      },
+      "blendMode" : "Normal",
+      "id" : "CC6C3D04-3C51-4460-802A-92CB30B39F91",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskSourceID" : "BA97F60A-9004-4F6F-99D8-4D1D7F45F6F4",
+      "name" : "Background A — Amber rooftops \/ restrained colour",
+      "opacity" : 1,
+      "parentID" : "9B779AA3-37B2-4899-90C4-C52C540F94DB",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 72
+              },
+              {
+                "x" : 64,
+                "y" : 120
+              },
+              {
+                "x" : 128,
+                "y" : 170
+              },
+              {
+                "x" : 200,
+                "y" : 217
+              },
+              {
+                "x" : 255,
+                "y" : 248
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 128,
+                "y" : 125
+              },
+              {
+                "x" : 255,
+                "y" : 251
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "E28D2662-5357-48E0-8885-CC0A2F69A534",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskSourceID" : "BA97F60A-9004-4F6F-99D8-4D1D7F45F6F4",
+      "name" : "Background A — Amber rooftops \/ paper daylight",
+      "opacity" : 1,
+      "parentID" : "9B779AA3-37B2-4899-90C4-C52C540F94DB",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "DF0E42B7-D1A3-414A-B183-ECDB4040F2F4",
+      "isGroup" : true,
+      "isVisible" : false,
+      "name" : "Background B — Mountain village",
+      "opacity" : 1,
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "5F211240-653C-469D-B188-8D529786E432",
+      "imageFile" : "5F211240-653C-469D-B188-8D529786E432.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "5F211240-653C-469D-B188-8D529786E432.mask.png",
+      "maskLinked" : true,
+      "name" : "Background B — Mountain village \/ photograph \/ quiet footer",
+      "opacity" : 0.85,
+      "parentID" : "DF0E42B7-D1A3-414A-B183-ECDB4040F2F4",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          -200,
+          -250
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3400,
+          2550
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Hue\/Saturation",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : -57
+      },
+      "blendMode" : "Normal",
+      "id" : "CBEEAA34-4B13-4437-8D12-EC4D5C9034A0",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskSourceID" : "5F211240-653C-469D-B188-8D529786E432",
+      "name" : "Background B — Mountain village \/ restrained colour",
+      "opacity" : 1,
+      "parentID" : "DF0E42B7-D1A3-414A-B183-ECDB4040F2F4",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 88
+              },
+              {
+                "x" : 64,
+                "y" : 133
+              },
+              {
+                "x" : 128,
+                "y" : 178
+              },
+              {
+                "x" : 200,
+                "y" : 222
+              },
+              {
+                "x" : 255,
+                "y" : 250
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "33AF9D1A-C52C-40A6-9B5F-C9F3BFF2758B",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskSourceID" : "5F211240-653C-469D-B188-8D529786E432",
+      "name" : "Background B — Mountain village \/ paper daylight",
+      "opacity" : 1,
+      "parentID" : "DF0E42B7-D1A3-414A-B183-ECDB4040F2F4",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
       "id" : "3DC4F648-E365-4B75-87AB-32EE26257137",
       "isGroup" : true,
       "isVisible" : true,
@@ -1337,7 +1899,7 @@
       "blendMode" : "Normal",
       "id" : "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
       "isGroup" : true,
-      "isVisible" : true,
+      "isVisible" : false,
       "name" : "Setting",
       "opacity" : 1,
       "parentID" : "3DC4F648-E365-4B75-87AB-32EE26257137",
