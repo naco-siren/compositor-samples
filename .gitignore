@@ -42,3 +42,13 @@ Workfiles/Sylvan-v1.comp/*
 !/Visitor*.jpg
 !/Visitor*.zip
 !/Visitor*Readme.txt
+
+!/Bloom*.comp/
+!/Bloom*.comp/**
+!/Bloom*.png
+!/Bloom*.zip
+!/Bloom*Readme.txt
+!Workfiles/build_bloom.py
+!Workfiles/render_bloom_preview.py
+!Workfiles/bloom-portrait-vision.mask.png
+!Workfiles/bloom-bouquet-vision.mask.png
