@@ -1,917 +1,944 @@
 {
-  "format": "com.compositor.project",
-  "version": 11,
-  "colorSpace": "sRGB",
-  "documentID": "F299F4AD-BEF0-51F4-8BBC-7C6562A987C0",
-  "width": 3200,
-  "height": 2000,
-  "resolution": 144,
-  "activeLayerID": "1449C8F8-AA86-55EE-B73D-CFD241F05383",
-  "layers": [
+  "activeLayerID" : "1449C8F8-AA86-55EE-B73D-CFD241F05383",
+  "colorSpace" : "sRGB",
+  "documentID" : "F299F4AD-BEF0-51F4-8BBC-7C6562A987C0",
+  "format" : "com.compositor.project",
+  "height" : 2000,
+  "layers" : [
     {
-      "id": "4748B243-B3C9-5C05-9D3F-D8627486F1C4",
-      "name": "Ground",
-      "isVisible": true,
-      "isGroup": true,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+      "blendMode" : "Normal",
+      "id" : "4748B243-B3C9-5C05-9D3F-D8627486F1C4",
+      "isGroup" : true,
+      "isVisible" : true,
+      "name" : "Ground",
+      "opacity" : 1,
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           0,
           0
         ],
-        "size": [
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
           3200,
           2000
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
+        ]
       }
     },
     {
-      "id": "07F222E7-B755-54A0-802D-E9BFD5F0294A",
-      "name": "Ivory / jade ground",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+      "blendMode" : "Normal",
+      "id" : "07F222E7-B755-54A0-802D-E9BFD5F0294A",
+      "imageFile" : "07F222E7-B755-54A0-802D-E9BFD5F0294A.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "Ivory \/ jade ground",
+      "opacity" : 1,
+      "parentID" : "4748B243-B3C9-5C05-9D3F-D8627486F1C4",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           0,
           0
         ],
-        "size": [
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
           3200,
           2000
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "4748B243-B3C9-5C05-9D3F-D8627486F1C4",
-      "imageFile": "07F222E7-B755-54A0-802D-E9BFD5F0294A.png"
-    },
-    {
-      "id": "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
-      "name": "Setting",
-      "isVisible": true,
-      "isGroup": true,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
-          0,
-          0
-        ],
-        "size": [
-          3200,
-          2000
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
+        ]
       }
     },
     {
-      "id": "4CC87F4E-892A-56D3-89D5-5FB98A7B8607",
-      "name": "Old house / photographic panel",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+      "blendMode" : "Normal",
+      "id" : "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
+      "isGroup" : true,
+      "isVisible" : true,
+      "name" : "Setting",
+      "opacity" : 1,
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "4CC87F4E-892A-56D3-89D5-5FB98A7B8607",
+      "imageFile" : "4CC87F4E-892A-56D3-89D5-5FB98A7B8607.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "4CC87F4E-892A-56D3-89D5-5FB98A7B8607.mask.png",
+      "maskLinked" : true,
+      "name" : "Old house \/ photographic panel",
+      "opacity" : 1,
+      "parentID" : "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           1360,
           120
         ],
-        "size": [
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
           1720,
           1720
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
-      "imageFile": "4CC87F4E-892A-56D3-89D5-5FB98A7B8607.png"
+        ]
+      }
     },
     {
-      "id": "278292B6-A6DF-53F3-850E-875522AA56F6",
-      "name": "Old house / softer daylight",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 0.62,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
-          0,
-          0
-        ],
-        "size": [
-          3200,
-          2000
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
-      "adjustment": {
-        "kind": "Curves",
-        "hue": 0,
-        "saturation": 0,
-        "lightness": 0,
-        "colorize": false,
-        "levels": {
-          "channel": "RGB",
-          "ranges": [
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            },
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            },
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            },
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            }
-          ]
-        },
-        "curves": {
-          "channel": "RGB",
-          "channels": [
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
             [
               {
-                "x": 0,
-                "y": 21
+                "x" : 0,
+                "y" : 34
               },
               {
-                "x": 65,
-                "y": 79
+                "x" : 65,
+                "y" : 91
               },
               {
-                "x": 150,
-                "y": 156
+                "x" : 150,
+                "y" : 163
               },
               {
-                "x": 255,
-                "y": 241
+                "x" : 255,
+                "y" : 239
               }
             ],
             [
               {
-                "x": 0,
-                "y": 0
+                "x" : 0,
+                "y" : 0
               },
               {
-                "x": 128,
-                "y": 130
+                "x" : 128,
+                "y" : 130
               },
               {
-                "x": 255,
-                "y": 255
+                "x" : 255,
+                "y" : 255
               }
             ],
             [
               {
-                "x": 0,
-                "y": 2
+                "x" : 0,
+                "y" : 2
               },
               {
-                "x": 128,
-                "y": 137
+                "x" : 128,
+                "y" : 137
               },
               {
-                "x": 255,
-                "y": 253
+                "x" : 255,
+                "y" : 253
               }
             ],
             [
               {
-                "x": 0,
-                "y": 7
+                "x" : 0,
+                "y" : 7
               },
               {
-                "x": 128,
-                "y": 139
+                "x" : 128,
+                "y" : 139
               },
               {
-                "x": 255,
-                "y": 248
+                "x" : 255,
+                "y" : 248
               }
             ]
           ]
-        }
-      }
-    },
-    {
-      "id": "F3A63538-1824-5981-8C4C-6B38061F07D9",
-      "name": "Flowers",
-      "isVisible": true,
-      "isGroup": true,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
-          0,
-          0
-        ],
-        "size": [
-          3200,
-          2000
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      }
-    },
-    {
-      "id": "1449C8F8-AA86-55EE-B73D-CFD241F05383",
-      "name": "Blue white and burgundy / original bouquet",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
-          1190,
-          100
-        ],
-        "size": [
-          1780,
-          1341
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "F3A63538-1824-5981-8C4C-6B38061F07D9",
-      "imageFile": "1449C8F8-AA86-55EE-B73D-CFD241F05383.png",
-      "maskFile": "1449C8F8-AA86-55EE-B73D-CFD241F05383.mask.png",
-      "maskEnabled": true,
-      "maskLinked": true
-    },
-    {
-      "id": "210E53FB-10F0-5554-8E90-894607155C86",
-      "name": "Flowers / warmer paper whites",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 0.55,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
-          0,
-          0
-        ],
-        "size": [
-          3200,
-          2000
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "F3A63538-1824-5981-8C4C-6B38061F07D9",
-      "adjustment": {
-        "kind": "Curves",
-        "hue": 0,
-        "saturation": 0,
-        "lightness": 0,
-        "colorize": false,
-        "levels": {
-          "channel": "RGB",
-          "ranges": [
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
             {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
             },
             {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
             },
             {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
             },
             {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
             }
           ]
         },
-        "curves": {
-          "channel": "RGB",
-          "channels": [
-            [
-              {
-                "x": 0,
-                "y": 2
-              },
-              {
-                "x": 128,
-                "y": 132
-              },
-              {
-                "x": 255,
-                "y": 249
-              }
-            ],
-            [
-              {
-                "x": 0,
-                "y": 0
-              },
-              {
-                "x": 128,
-                "y": 130
-              },
-              {
-                "x": 255,
-                "y": 255
-              }
-            ],
-            [
-              {
-                "x": 0,
-                "y": 0
-              },
-              {
-                "x": 255,
-                "y": 255
-              }
-            ],
-            [
-              {
-                "x": 0,
-                "y": 0
-              },
-              {
-                "x": 128,
-                "y": 126
-              },
-              {
-                "x": 255,
-                "y": 249
-              }
-            ]
-          ]
-        }
-      }
-    },
-    {
-      "id": "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
-      "name": "Portrait",
-      "isVisible": true,
-      "isGroup": true,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "278292B6-A6DF-53F3-850E-875522AA56F6",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "Old house \/ softer daylight",
+      "opacity" : 0.62,
+      "parentID" : "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           0,
           0
         ],
-        "size": [
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
           3200,
           2000
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
+        ]
       }
     },
     {
-      "id": "48DF80CD-6DD7-5BBE-988D-52B790671B2D",
-      "name": "Red shawl / head removed with mask",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+      "blendMode" : "Normal",
+      "id" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
+      "isGroup" : true,
+      "isVisible" : true,
+      "name" : "Flowers",
+      "opacity" : 1,
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "CCC94EFD-802A-5FBC-9141-083A935E1B6E",
+      "imageFile" : "CCC94EFD-802A-5FBC-9141-083A935E1B6E.png",
+      "isGroup" : false,
+      "isVisible" : false,
+      "name" : "Source bouquet \/ original full photograph",
+      "opacity" : 1,
+      "parentID" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          1370,
+          50
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          1500,
+          1130
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "1449C8F8-AA86-55EE-B73D-CFD241F05383",
+      "imageFile" : "1449C8F8-AA86-55EE-B73D-CFD241F05383.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "1449C8F8-AA86-55EE-B73D-CFD241F05383.mask.png",
+      "maskLinked" : true,
+      "name" : "Blue white and burgundy \/ original bouquet",
+      "opacity" : 1,
+      "parentID" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          1370,
+          50
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          1500,
+          1130
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 2
+              },
+              {
+                "x" : 128,
+                "y" : 132
+              },
+              {
+                "x" : 255,
+                "y" : 249
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 128,
+                "y" : 130
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 128,
+                "y" : 126
+              },
+              {
+                "x" : 255,
+                "y" : 249
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "210E53FB-10F0-5554-8E90-894607155C86",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "Flowers \/ warmer paper whites",
+      "opacity" : 0.55,
+      "parentID" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
+      "isGroup" : true,
+      "isVisible" : true,
+      "name" : "Portrait",
+      "opacity" : 1,
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "48DF80CD-6DD7-5BBE-988D-52B790671B2D",
+      "imageFile" : "48DF80CD-6DD7-5BBE-988D-52B790671B2D.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "48DF80CD-6DD7-5BBE-988D-52B790671B2D.mask.png",
+      "maskLinked" : true,
+      "name" : "Red shawl \/ head removed with mask",
+      "opacity" : 1,
+      "parentID" : "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           1460,
-          260
+          120
         ],
-        "size": [
-          1466,
-          2200
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
-      "imageFile": "48DF80CD-6DD7-5BBE-988D-52B790671B2D.png",
-      "maskFile": "48DF80CD-6DD7-5BBE-988D-52B790671B2D.mask.png",
-      "maskEnabled": true,
-      "maskLinked": true
-    },
-    {
-      "id": "C4CFE22C-1CAB-51AB-9E74-E0A09C05921B",
-      "name": "Textile / lifted midtones",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 0.5,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
-          0,
-          0
-        ],
-        "size": [
-          3200,
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          1333,
           2000
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
-      "adjustment": {
-        "kind": "Curves",
-        "hue": 0,
-        "saturation": 0,
-        "lightness": 0,
-        "colorize": false,
-        "levels": {
-          "channel": "RGB",
-          "ranges": [
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            },
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            },
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            },
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            }
-          ]
-        },
-        "curves": {
-          "channel": "RGB",
-          "channels": [
-            [
-              {
-                "x": 0,
-                "y": 3
-              },
-              {
-                "x": 70,
-                "y": 72
-              },
-              {
-                "x": 160,
-                "y": 169
-              },
-              {
-                "x": 255,
-                "y": 251
-              }
-            ],
-            [
-              {
-                "x": 0,
-                "y": 0
-              },
-              {
-                "x": 255,
-                "y": 255
-              }
-            ],
-            [
-              {
-                "x": 0,
-                "y": 0
-              },
-              {
-                "x": 255,
-                "y": 255
-              }
-            ],
-            [
-              {
-                "x": 0,
-                "y": 0
-              },
-              {
-                "x": 255,
-                "y": 255
-              }
-            ]
-          ]
-        }
+        ]
       }
     },
     {
-      "id": "0031A4BC-FD43-580A-8EB4-93B1827ACDA6",
-      "name": "Collar / soft contact shade",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 0.26,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
-          0,
-          0
-        ],
-        "size": [
-          3200,
-          2000
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
-      "adjustment": {
-        "kind": "Curves",
-        "hue": 0,
-        "saturation": 0,
-        "lightness": 0,
-        "colorize": false,
-        "levels": {
-          "channel": "RGB",
-          "ranges": [
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            },
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            },
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            },
-            {
-              "black": 0,
-              "gamma": 1,
-              "white": 255,
-              "outputBlack": 0,
-              "outputWhite": 255
-            }
-          ]
-        },
-        "curves": {
-          "channel": "RGB",
-          "channels": [
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
             [
               {
-                "x": 0,
-                "y": 0
+                "x" : 0,
+                "y" : 3
               },
               {
-                "x": 100,
-                "y": 65
+                "x" : 70,
+                "y" : 72
               },
               {
-                "x": 190,
-                "y": 164
+                "x" : 160,
+                "y" : 169
               },
               {
-                "x": 255,
-                "y": 239
+                "x" : 255,
+                "y" : 251
               }
             ],
             [
               {
-                "x": 0,
-                "y": 0
+                "x" : 0,
+                "y" : 0
               },
               {
-                "x": 255,
-                "y": 255
+                "x" : 255,
+                "y" : 255
               }
             ],
             [
               {
-                "x": 0,
-                "y": 0
+                "x" : 0,
+                "y" : 0
               },
               {
-                "x": 255,
-                "y": 255
+                "x" : 255,
+                "y" : 255
               }
             ],
             [
               {
-                "x": 0,
-                "y": 0
+                "x" : 0,
+                "y" : 0
               },
               {
-                "x": 255,
-                "y": 255
+                "x" : 255,
+                "y" : 255
               }
             ]
           ]
-        }
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
       },
-      "maskFile": "0031A4BC-FD43-580A-8EB4-93B1827ACDA6.mask.png",
-      "maskEnabled": true,
-      "maskLinked": true
-    },
-    {
-      "id": "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
-      "name": "Typography",
-      "isVisible": true,
-      "isGroup": true,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+      "blendMode" : "Normal",
+      "id" : "C4CFE22C-1CAB-51AB-9E74-E0A09C05921B",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "Textile \/ lifted midtones",
+      "opacity" : 0.5,
+      "parentID" : "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           0,
           0
         ],
-        "size": [
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
           3200,
           2000
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
+        ]
       }
     },
     {
-      "id": "1631F4CB-AF56-51BC-9F28-12435F81B13C",
-      "name": "Study 02",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 100,
+                "y" : 65
+              },
+              {
+                "x" : 190,
+                "y" : 164
+              },
+              {
+                "x" : 255,
+                "y" : 239
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "0031A4BC-FD43-580A-8EB4-93B1827ACDA6",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "0031A4BC-FD43-580A-8EB4-93B1827ACDA6.mask.png",
+      "maskLinked" : true,
+      "name" : "Collar \/ soft contact shade",
+      "opacity" : 0.26,
+      "parentID" : "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
+      "isGroup" : true,
+      "isVisible" : true,
+      "name" : "Typography",
+      "opacity" : 1,
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "1631F4CB-AF56-51BC-9F28-12435F81B13C",
+      "imageFile" : "1631F4CB-AF56-51BC-9F28-12435F81B13C.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "Study 02",
+      "opacity" : 1,
+      "parentID" : "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
+      "text" : {
+        "alignment" : "Left",
+        "blue" : 0.2901960784313726,
+        "content" : "C O M P O S I T O R   \/   S T U D Y  0 2",
+        "fontName" : "Helvetica",
+        "fontSize" : 36,
+        "green" : 0.3137254901960784,
+        "leading" : 0,
+        "red" : 0.25882352941176473,
+        "tracking" : 0
+      },
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           232,
           159
         ],
-        "size": [
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
           720,
           68
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
-      "text": {
-        "content": "C O M P O S I T O R   /   S T U D Y  0 2",
-        "fontName": "Helvetica",
-        "fontSize": 36,
-        "red": 0.25882352941176473,
-        "green": 0.3137254901960784,
-        "blue": 0.2901960784313726,
-        "tracking": 0,
-        "leading": 0,
-        "alignment": "Left"
-      },
-      "imageFile": "1631F4CB-AF56-51BC-9F28-12435F81B13C.png"
+        ]
+      }
     },
     {
-      "id": "10FBED9B-A406-5FFE-B755-B95D3ACD1FF3",
-      "name": "Botanical collage",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+      "blendMode" : "Normal",
+      "id" : "10FBED9B-A406-5FFE-B755-B95D3ACD1FF3",
+      "imageFile" : "10FBED9B-A406-5FFE-B755-B95D3ACD1FF3.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "Botanical collage",
+      "opacity" : 1,
+      "parentID" : "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
+      "text" : {
+        "alignment" : "Left",
+        "blue" : 0.27058823529411763,
+        "content" : "BOTANICAL COLLAGE",
+        "fontName" : "Baskerville",
+        "fontSize" : 70,
+        "green" : 0.30196078431372547,
+        "leading" : 0,
+        "red" : 0.22745098039215686,
+        "tracking" : 5
+      },
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           240,
           512
         ],
-        "size": [
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
           1120,
           120
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
-      "text": {
-        "content": "BOTANICAL COLLAGE",
-        "fontName": "Baskerville",
-        "fontSize": 70,
-        "red": 0.22745098039215686,
-        "green": 0.30196078431372547,
-        "blue": 0.27058823529411763,
-        "tracking": 5,
-        "leading": 0,
-        "alignment": "Left"
-      },
-      "imageFile": "10FBED9B-A406-5FFE-B755-B95D3ACD1FF3.png"
+        ]
+      }
     },
     {
-      "id": "5E385794-DB47-552E-86DD-D5EB6641EEE4",
-      "name": "BLOOM",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+      "blendMode" : "Normal",
+      "id" : "5E385794-DB47-552E-86DD-D5EB6641EEE4",
+      "imageFile" : "5E385794-DB47-552E-86DD-D5EB6641EEE4.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "BLOOM",
+      "opacity" : 1,
+      "parentID" : "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
+      "text" : {
+        "alignment" : "Left",
+        "blue" : 0.20784313725490197,
+        "content" : "BLOOM",
+        "fontName" : "Baskerville",
+        "fontSize" : 245,
+        "green" : 0.23921568627450981,
+        "leading" : 0,
+        "red" : 0.1607843137254902,
+        "tracking" : 4
+      },
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           232,
           580
         ],
-        "size": [
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
           1250,
           330
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
-      "text": {
-        "content": "BLOOM",
-        "fontName": "Baskerville",
-        "fontSize": 245,
-        "red": 0.1607843137254902,
-        "green": 0.23921568627450981,
-        "blue": 0.20784313725490197,
-        "tracking": 4,
-        "leading": 0,
-        "alignment": "Left"
-      },
-      "imageFile": "5E385794-DB47-552E-86DD-D5EB6641EEE4.png"
+        ]
+      }
     },
     {
-      "id": "8394628D-35E7-5783-A6A8-84AA4177CA7B",
-      "name": "Rooted in colour.",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+      "blendMode" : "Normal",
+      "id" : "8394628D-35E7-5783-A6A8-84AA4177CA7B",
+      "imageFile" : "8394628D-35E7-5783-A6A8-84AA4177CA7B.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "Rooted in colour.",
+      "opacity" : 1,
+      "parentID" : "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
+      "text" : {
+        "alignment" : "Left",
+        "blue" : 0.28627450980392155,
+        "content" : "Rooted in colour.",
+        "fontName" : "Baskerville-Italic",
+        "fontSize" : 96,
+        "green" : 0.3333333333333333,
+        "leading" : 0,
+        "red" : 0.2627450980392157,
+        "tracking" : 0
+      },
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           232,
           1149
         ],
-        "size": [
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
           1120,
           140
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
-      "text": {
-        "content": "Rooted in colour.",
-        "fontName": "Baskerville-Italic",
-        "fontSize": 96,
-        "red": 0.2627450980392157,
-        "green": 0.3333333333333333,
-        "blue": 0.28627450980392155,
-        "tracking": 0,
-        "leading": 0,
-        "alignment": "Left"
-      },
-      "imageFile": "8394628D-35E7-5783-A6A8-84AA4177CA7B.png"
+        ]
+      }
     },
     {
-      "id": "5C1EBD44-D086-5114-BB5E-9E03E355BAE4",
-      "name": "Portrait botanical 2026",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+      "blendMode" : "Normal",
+      "id" : "5C1EBD44-D086-5114-BB5E-9E03E355BAE4",
+      "imageFile" : "5C1EBD44-D086-5114-BB5E-9E03E355BAE4.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "Portrait botanical 2026",
+      "opacity" : 1,
+      "parentID" : "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
+      "text" : {
+        "alignment" : "Left",
+        "blue" : 0.30196078431372547,
+        "content" : "PORTRAIT × BOTANICAL     \/     2026",
+        "fontName" : "Helvetica",
+        "fontSize" : 36,
+        "green" : 0.33725490196078434,
+        "leading" : 0,
+        "red" : 0.26666666666666666,
+        "tracking" : 2
+      },
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           232,
           1784
         ],
-        "size": [
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
           850,
           68
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
-      "text": {
-        "content": "PORTRAIT \u00d7 BOTANICAL     /     2026",
-        "fontName": "Helvetica",
-        "fontSize": 36,
-        "red": 0.26666666666666666,
-        "green": 0.33725490196078434,
-        "blue": 0.30196078431372547,
-        "tracking": 2,
-        "leading": 0,
-        "alignment": "Left"
-      },
-      "imageFile": "5C1EBD44-D086-5114-BB5E-9E03E355BAE4.png"
+        ]
+      }
     },
     {
-      "id": "442F55B8-C60D-5335-8032-0FD13BF4FD7E",
-      "name": "02",
-      "isVisible": true,
-      "isGroup": false,
-      "opacity": 1,
-      "blendMode": "Normal",
-      "transform": {
-        "origin": [
+      "blendMode" : "Normal",
+      "id" : "442F55B8-C60D-5335-8032-0FD13BF4FD7E",
+      "imageFile" : "442F55B8-C60D-5335-8032-0FD13BF4FD7E.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "02",
+      "opacity" : 1,
+      "parentID" : "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
+      "text" : {
+        "alignment" : "Left",
+        "blue" : 0.25098039215686274,
+        "content" : "02",
+        "fontName" : "Baskerville",
+        "fontSize" : 36,
+        "green" : 0.28627450980392155,
+        "leading" : 0,
+        "red" : 0.21176470588235294,
+        "tracking" : 0
+      },
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
           2860,
           1784
         ],
-        "size": [
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
           64,
           68
-        ],
-        "rotation": 0,
-        "flipX": false,
-        "flipY": false,
-        "sampling": "High quality"
-      },
-      "parentID": "5BAFFDF9-DA34-57ED-A9B8-C1FDA49A019F",
-      "text": {
-        "content": "02",
-        "fontName": "Baskerville",
-        "fontSize": 36,
-        "red": 0.21176470588235294,
-        "green": 0.28627450980392155,
-        "blue": 0.25098039215686274,
-        "tracking": 0,
-        "leading": 0,
-        "alignment": "Left"
-      },
-      "imageFile": "442F55B8-C60D-5335-8032-0FD13BF4FD7E.png"
+        ]
+      }
     }
-  ]
+  ],
+  "resolution" : 144,
+  "version" : 11,
+  "width" : 3200
 }
