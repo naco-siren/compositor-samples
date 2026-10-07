@@ -52,3 +52,5 @@ Workfiles/Sylvan-v1.comp/*
 !Workfiles/render_bloom_preview.py
 !Workfiles/bloom-portrait-vision.mask.png
 !Workfiles/bloom-bouquet-vision.mask.png
+
+!Workfiles/polish_bloom_background.py

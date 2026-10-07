@@ -1,5 +1,5 @@
 {
-  "activeLayerID" : "E0D7ABD1-2B52-4441-BE64-918D896462F4",
+  "activeLayerID" : "44ED54CE-7DBF-4E89-933A-466635FBDB8B",
   "colorSpace" : "sRGB",
   "documentID" : "F299F4AD-BEF0-51F4-8BBC-7C6562A987C0",
   "format" : "com.compositor.project",
@@ -164,19 +164,19 @@
             }
           ],
           "bands" : [
-            "Reds",
+            "Magentas",
             {
-              "falloffEnd" : 45,
-              "falloffStart" : 315,
-              "rangeEnd" : 15,
-              "rangeStart" : 345
+              "falloffEnd" : 345,
+              "falloffStart" : 255,
+              "rangeEnd" : 315,
+              "rangeStart" : 285
             },
-            "Master",
+            "Blues",
             {
-              "falloffEnd" : 360,
-              "falloffStart" : 0,
-              "rangeEnd" : 360,
-              "rangeStart" : 0
+              "falloffEnd" : 285,
+              "falloffStart" : 195,
+              "rangeEnd" : 255,
+              "rangeStart" : 225
             },
             "Cyans",
             {
@@ -185,20 +185,6 @@
               "rangeEnd" : 195,
               "rangeStart" : 165
             },
-            "Greens",
-            {
-              "falloffEnd" : 165,
-              "falloffStart" : 75,
-              "rangeEnd" : 135,
-              "rangeStart" : 105
-            },
-            "Magentas",
-            {
-              "falloffEnd" : 345,
-              "falloffStart" : 255,
-              "rangeEnd" : 315,
-              "rangeStart" : 285
-            },
             "Yellows",
             {
               "falloffEnd" : 105,
@@ -206,12 +192,26 @@
               "rangeEnd" : 75,
               "rangeStart" : 45
             },
-            "Blues",
+            "Master",
             {
-              "falloffEnd" : 285,
-              "falloffStart" : 195,
-              "rangeEnd" : 255,
-              "rangeStart" : 225
+              "falloffEnd" : 360,
+              "falloffStart" : 0,
+              "rangeEnd" : 360,
+              "rangeStart" : 0
+            },
+            "Greens",
+            {
+              "falloffEnd" : 165,
+              "falloffStart" : 75,
+              "rangeEnd" : 135,
+              "rangeStart" : 105
+            },
+            "Reds",
+            {
+              "falloffEnd" : 45,
+              "falloffStart" : 315,
+              "rangeEnd" : 15,
+              "rangeStart" : 345
             }
           ],
           "colorize" : false,
@@ -393,6 +393,245 @@
       "isVisible" : true,
       "name" : "Old house \/ softer daylight",
       "opacity" : 0.62,
+      "parentID" : "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 4
+              },
+              {
+                "x" : 45,
+                "y" : 34
+              },
+              {
+                "x" : 95,
+                "y" : 61
+              },
+              {
+                "x" : 160,
+                "y" : 108
+              },
+              {
+                "x" : 220,
+                "y" : 159
+              },
+              {
+                "x" : 255,
+                "y" : 196
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "44ED54CE-7DBF-4E89-933A-466635FBDB8B",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "44ED54CE-7DBF-4E89-933A-466635FBDB8B.mask.png",
+      "maskLinked" : true,
+      "name" : "Background \/ quieter vines and roof",
+      "opacity" : 0.9,
+      "parentID" : "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "blurRadius" : 4.4,
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Gaussian Blur",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "246C5A96-9BE2-4E54-BAD2-DF3C082106AE",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "246C5A96-9BE2-4E54-BAD2-DF3C082106AE.mask.png",
+      "maskLinked" : true,
+      "name" : "Background \/ restrained texture softness",
+      "opacity" : 0.85,
       "parentID" : "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
       "transform" : {
         "flipX" : false,
