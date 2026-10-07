@@ -1,5 +1,5 @@
 {
-  "activeLayerID" : "1449C8F8-AA86-55EE-B73D-CFD241F05383",
+  "activeLayerID" : "E0D7ABD1-2B52-4441-BE64-918D896462F4",
   "colorSpace" : "sRGB",
   "documentID" : "F299F4AD-BEF0-51F4-8BBC-7C6562A987C0",
   "format" : "com.compositor.project",
@@ -97,6 +97,187 @@
         "size" : [
           1720,
           1720
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hsvSettings" : {
+          "adjustments" : [
+            "Reds",
+            {
+              "hue" : 0,
+              "lightness" : 0,
+              "saturation" : 26
+            },
+            "Master",
+            {
+              "hue" : 0,
+              "lightness" : -22,
+              "saturation" : -59
+            }
+          ],
+          "bands" : [
+            "Reds",
+            {
+              "falloffEnd" : 45,
+              "falloffStart" : 315,
+              "rangeEnd" : 15,
+              "rangeStart" : 345
+            },
+            "Master",
+            {
+              "falloffEnd" : 360,
+              "falloffStart" : 0,
+              "rangeEnd" : 360,
+              "rangeStart" : 0
+            },
+            "Cyans",
+            {
+              "falloffEnd" : 225,
+              "falloffStart" : 135,
+              "rangeEnd" : 195,
+              "rangeStart" : 165
+            },
+            "Greens",
+            {
+              "falloffEnd" : 165,
+              "falloffStart" : 75,
+              "rangeEnd" : 135,
+              "rangeStart" : 105
+            },
+            "Magentas",
+            {
+              "falloffEnd" : 345,
+              "falloffStart" : 255,
+              "rangeEnd" : 315,
+              "rangeStart" : 285
+            },
+            "Yellows",
+            {
+              "falloffEnd" : 105,
+              "falloffStart" : 15,
+              "rangeEnd" : 75,
+              "rangeStart" : 45
+            },
+            "Blues",
+            {
+              "falloffEnd" : 285,
+              "falloffStart" : 195,
+              "rangeEnd" : 255,
+              "rangeStart" : 225
+            }
+          ],
+          "colorize" : false,
+          "invertRange" : false,
+          "range" : "Reds"
+        },
+        "hue" : 0,
+        "kind" : "Hue\/Saturation",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "C47C384D-E1B1-4E29-A1AB-09614BF00F2C",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "C47C384D-E1B1-4E29-A1AB-09614BF00F2C.mask.png",
+      "maskLinked" : true,
+      "name" : "Hue\/Saturation",
+      "opacity" : 1,
+      "parentID" : "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
         ]
       }
     },
@@ -283,6 +464,20 @@
       "maskEnabled" : true,
       "maskFile" : "1449C8F8-AA86-55EE-B73D-CFD241F05383.mask.png",
       "maskLinked" : true,
+      "maskPlacement" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          1629.9397927929713,
+          239.48450853553567
+        ],
+        "rotation" : -19,
+        "sampling" : "High quality",
+        "size" : [
+          1096,
+          876.9181034482759
+        ]
+      },
       "name" : "Blue white and burgundy \/ original bouquet",
       "opacity" : 1,
       "parentID" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
@@ -290,14 +485,122 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          1370,
-          50
+          1621,
+          240.9805167861589
+        ],
+        "rotation" : -19,
+        "sampling" : "High quality",
+        "size" : [
+          1096,
+          822
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Hue\/Saturation",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "E0D7ABD1-2B52-4441-BE64-918D896462F4",
+      "isGroup" : false,
+      "isVisible" : true,
+      "name" : "Hue\/Saturation",
+      "opacity" : 1,
+      "parentID" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1500,
-          1130
+          3200,
+          2000
         ]
       }
     },
@@ -459,14 +762,14 @@
         "flipX" : false,
         "flipY" : false,
         "origin" : [
-          1460,
-          120
+          1559,
+          267
         ],
         "rotation" : 0,
         "sampling" : "High quality",
         "size" : [
-          1333,
-          2000
+          1220,
+          1830
         ]
       }
     },
