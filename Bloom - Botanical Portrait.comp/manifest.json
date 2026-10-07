@@ -1,5 +1,5 @@
 {
-  "activeLayerID" : "44ED54CE-7DBF-4E89-933A-466635FBDB8B",
+  "activeLayerID" : "17953E89-6E17-40BE-98E0-8ED99294C7E4",
   "colorSpace" : "sRGB",
   "documentID" : "F299F4AD-BEF0-51F4-8BBC-7C6562A987C0",
   "format" : "com.compositor.project",
@@ -36,28 +36,6 @@
       "name" : "Ivory \/ jade ground",
       "opacity" : 1,
       "parentID" : "4748B243-B3C9-5C05-9D3F-D8627486F1C4",
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          0,
-          0
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          3200,
-          2000
-        ]
-      }
-    },
-    {
-      "blendMode" : "Normal",
-      "id" : "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
-      "isGroup" : true,
-      "isVisible" : true,
-      "name" : "Setting",
-      "opacity" : 1,
       "transform" : {
         "flipX" : false,
         "flipY" : false,
@@ -649,93 +627,6 @@
       }
     },
     {
-      "blendMode" : "Normal",
-      "id" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
-      "isGroup" : true,
-      "isVisible" : true,
-      "name" : "Flowers",
-      "opacity" : 1,
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          0,
-          0
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          3200,
-          2000
-        ]
-      }
-    },
-    {
-      "blendMode" : "Normal",
-      "id" : "CCC94EFD-802A-5FBC-9141-083A935E1B6E",
-      "imageFile" : "CCC94EFD-802A-5FBC-9141-083A935E1B6E.png",
-      "isGroup" : false,
-      "isVisible" : false,
-      "name" : "Source bouquet \/ original full photograph",
-      "opacity" : 1,
-      "parentID" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          1370,
-          50
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          1500,
-          1130
-        ]
-      }
-    },
-    {
-      "blendMode" : "Normal",
-      "id" : "1449C8F8-AA86-55EE-B73D-CFD241F05383",
-      "imageFile" : "1449C8F8-AA86-55EE-B73D-CFD241F05383.png",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "1449C8F8-AA86-55EE-B73D-CFD241F05383.mask.png",
-      "maskLinked" : true,
-      "maskPlacement" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          1629.9397927929713,
-          239.48450853553567
-        ],
-        "rotation" : -19,
-        "sampling" : "High quality",
-        "size" : [
-          1096,
-          876.9181034482759
-        ]
-      },
-      "name" : "Blue white and burgundy \/ original bouquet",
-      "opacity" : 1,
-      "parentID" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          1621,
-          240.9805167861589
-        ],
-        "rotation" : -19,
-        "sampling" : "High quality",
-        "size" : [
-          1096,
-          822
-        ]
-      }
-    },
-    {
       "adjustment" : {
         "colorize" : false,
         "curves" : {
@@ -965,10 +856,10 @@
     },
     {
       "blendMode" : "Normal",
-      "id" : "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
+      "id" : "3DC4F648-E365-4B75-87AB-32EE26257137",
       "isGroup" : true,
       "isVisible" : true,
-      "name" : "Portrait",
+      "name" : "Subject",
       "opacity" : 1,
       "transform" : {
         "flipX" : false,
@@ -1112,125 +1003,6 @@
       "isVisible" : true,
       "name" : "Textile \/ lifted midtones",
       "opacity" : 0.5,
-      "parentID" : "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
-      "transform" : {
-        "flipX" : false,
-        "flipY" : false,
-        "origin" : [
-          0,
-          0
-        ],
-        "rotation" : 0,
-        "sampling" : "High quality",
-        "size" : [
-          3200,
-          2000
-        ]
-      }
-    },
-    {
-      "adjustment" : {
-        "colorize" : false,
-        "curves" : {
-          "channel" : "RGB",
-          "channels" : [
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 100,
-                "y" : 65
-              },
-              {
-                "x" : 190,
-                "y" : 164
-              },
-              {
-                "x" : 255,
-                "y" : 239
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ],
-            [
-              {
-                "x" : 0,
-                "y" : 0
-              },
-              {
-                "x" : 255,
-                "y" : 255
-              }
-            ]
-          ]
-        },
-        "hue" : 0,
-        "kind" : "Curves",
-        "levels" : {
-          "channel" : "RGB",
-          "ranges" : [
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            },
-            {
-              "black" : 0,
-              "gamma" : 1,
-              "outputBlack" : 0,
-              "outputWhite" : 255,
-              "white" : 255
-            }
-          ]
-        },
-        "lightness" : 0,
-        "saturation" : 0
-      },
-      "blendMode" : "Normal",
-      "id" : "0031A4BC-FD43-580A-8EB4-93B1827ACDA6",
-      "isGroup" : false,
-      "isVisible" : true,
-      "maskEnabled" : true,
-      "maskFile" : "0031A4BC-FD43-580A-8EB4-93B1827ACDA6.mask.png",
-      "maskLinked" : true,
-      "name" : "Collar \/ soft contact shade",
-      "opacity" : 0.26,
       "parentID" : "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
       "transform" : {
         "flipX" : false,
@@ -1476,6 +1248,391 @@
         "size" : [
           64,
           68
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "553D34E6-6E58-40BB-B0A9-837F5F8B95D2",
+      "imageFile" : "553D34E6-6E58-40BB-B0A9-837F5F8B95D2.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "553D34E6-6E58-40BB-B0A9-837F5F8B95D2.mask.png",
+      "maskLinked" : true,
+      "maskPlacement" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          1623.3365208938994,
+          20.370068554086174
+        ],
+        "rotation" : 18,
+        "sampling" : "High quality",
+        "size" : [
+          885,
+          1310.8777191129884
+        ]
+      },
+      "name" : "pexels-shliftik-7367926",
+      "opacity" : 1,
+      "parentID" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          1666.3025439983758,
+          27.17521807645994
+        ],
+        "rotation" : 18,
+        "sampling" : "High quality",
+        "size" : [
+          885,
+          1032.7957761351638
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "67A68B66-314C-4DDC-A98C-3ECCB4F72418",
+      "imageFile" : "67A68B66-314C-4DDC-A98C-3ECCB4F72418.png",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "67A68B66-314C-4DDC-A98C-3ECCB4F72418.mask.png",
+      "maskLinked" : true,
+      "maskPlacement" : {
+        "flipX" : true,
+        "flipY" : false,
+        "origin" : [
+          1415.8027996738192,
+          147.3118574250817
+        ],
+        "rotation" : -16.999999999999993,
+        "sampling" : "High quality",
+        "size" : [
+          1598.8053333333335,
+          1399.5519999999995
+        ]
+      },
+      "name" : "pexels-thales13-22602321",
+      "opacity" : 1,
+      "parentID" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
+      "transform" : {
+        "flipX" : true,
+        "flipY" : false,
+        "origin" : [
+          1658.401831308765,
+          522.1362469367176
+        ],
+        "rotation" : -17,
+        "sampling" : "High quality",
+        "size" : [
+          987.153,
+          739.607
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "54D8E7B6-71B7-5D80-ACEA-426650FE4C55",
+      "isGroup" : true,
+      "isVisible" : true,
+      "name" : "Setting",
+      "opacity" : 1,
+      "parentID" : "3DC4F648-E365-4B75-87AB-32EE26257137",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "F3A63538-1824-5981-8C4C-6B38061F07D9",
+      "isGroup" : true,
+      "isVisible" : true,
+      "name" : "Flowers",
+      "opacity" : 1,
+      "parentID" : "3DC4F648-E365-4B75-87AB-32EE26257137",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "blendMode" : "Normal",
+      "id" : "1267237A-5DAE-5F9E-A2F1-C0EC1EE6C28C",
+      "isGroup" : true,
+      "isVisible" : true,
+      "name" : "Portrait",
+      "opacity" : 1,
+      "parentID" : "3DC4F648-E365-4B75-87AB-32EE26257137",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 102.8616810993976,
+                "y" : 50.22611177884616
+              },
+              {
+                "x" : 215.5852903802711,
+                "y" : 147.2111628605769
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "14667A90-6139-4FC9-B069-E6BE2584B5F1",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "14667A90-6139-4FC9-B069-E6BE2584B5F1.mask.png",
+      "maskLinked" : true,
+      "name" : "Dim",
+      "opacity" : 1,
+      "parentID" : "3DC4F648-E365-4B75-87AB-32EE26257137",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
+        ]
+      }
+    },
+    {
+      "adjustment" : {
+        "colorize" : false,
+        "curves" : {
+          "channel" : "RGB",
+          "channels" : [
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 165.6305887612952,
+                "y" : 93.68644831730771
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ],
+            [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 255,
+                "y" : 255
+              }
+            ]
+          ]
+        },
+        "hue" : 0,
+        "kind" : "Curves",
+        "levels" : {
+          "channel" : "RGB",
+          "ranges" : [
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            },
+            {
+              "black" : 0,
+              "gamma" : 1,
+              "outputBlack" : 0,
+              "outputWhite" : 255,
+              "white" : 255
+            }
+          ]
+        },
+        "lightness" : 0,
+        "saturation" : 0
+      },
+      "blendMode" : "Normal",
+      "id" : "17953E89-6E17-40BE-98E0-8ED99294C7E4",
+      "isGroup" : false,
+      "isVisible" : true,
+      "maskEnabled" : true,
+      "maskFile" : "17953E89-6E17-40BE-98E0-8ED99294C7E4.mask.png",
+      "maskLinked" : true,
+      "name" : "Shadow",
+      "opacity" : 1,
+      "parentID" : "3DC4F648-E365-4B75-87AB-32EE26257137",
+      "transform" : {
+        "flipX" : false,
+        "flipY" : false,
+        "origin" : [
+          0,
+          0
+        ],
+        "rotation" : 0,
+        "sampling" : "High quality",
+        "size" : [
+          3200,
+          2000
         ]
       }
     }
